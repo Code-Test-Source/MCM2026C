@@ -1,67 +1,67 @@
 season,week,predicted_eliminated_rank,predicted_partner_rank,actual_eliminated,actual_count,correct_rank,exact_match_rank,best_fan_blend
-1,2,Rachel Hunter,Jonathan Roberts,Trista Sutter,1,0.0,0,-1.0
+1,2,Trista Sutter,Louis van Amstel,Trista Sutter,1,1.0,1,-1.0
 1,3,Evander Holyfield,Edyta Sliwinska,Evander Holyfield,1,1.0,1,-1.0
 1,4,Rachel Hunter,Jonathan Roberts,Rachel Hunter,1,1.0,1,-1.0
 2,1,Kenny Mayne,Andrea Hale,Kenny Mayne,1,1.0,1,-1.0
 2,2,Tatum O'Neal,Nick Kosovich,Tatum O'Neal,1,1.0,1,-1.0
 2,3,Master P,Ashly DelGrosso,Giselle Fernandez,1,0.0,0,-1.0
 2,4,Master P,Ashly DelGrosso,Master P,1,1.0,1,-1.0
-2,5,Tia Carrere,Maksim Chmerkoskiy,Tia Carrere,1,1.0,1,-0.2
-2,6,Jerry Rice,Anna Trebunskaya,George Hamilton,1,0.0,0,-1.0
+2,5,Tia Carrere,Maksim Chmerkoskiy,Tia Carrere,1,1.0,1,-0.5
+2,6,George Hamilton,Edyta Sliwinska,George Hamilton,1,1.0,1,-1.0
 2,7,Jerry Rice,Anna Trebunskaya,Lisa Rinna,1,0.0,0,-1.0
-28,2,"Lamar Odom, Mary Wilson","Peta Murgatroyd, Brandon Armstrong","Mary Wilson, Ray Lewis",2,0.5,0,-1.0
+28,2,"Lamar Odom, Mary Wilson","Peta Murgatroyd, Brandon Armstrong","Ray Lewis, Mary Wilson",2,0.5,0,-1.0
 28,4,Lamar Odom,Peta Murgatroyd,Lamar Odom,1,1.0,1,-1.0
-28,6,Lauren Alaina,Gleb Savchenko,Sailor Brinkley-Cook,1,0.0,0,-1.0
-28,7,Kate Flannery,Pasha Pashkov,Karamo Brown,1,0.0,0,-1.0
-28,8,Kate Flannery,Pasha Pashkov,Kate Flannery,1,1.0,1,-1.0
+28,6,Sean Spicer,Lindsay Arnold,Sailor Brinkley-Cook,1,0.0,0,-1.0
+28,7,Sean Spicer,Lindsay Arnold,Karamo Brown,1,0.0,0,-1.0
+28,8,Sean Spicer,Lindsay Arnold,Kate Flannery,1,0.0,0,-1.0
 28,9,Sean Spicer,Lindsay Arnold,Sean Spicer,1,1.0,1,-1.0
 28,10,James Van Der Beek,Emma Slater,James Van Der Beek,1,1.0,1,-0.5
 29,2,Charles Oakley,Emma Slater,Charles Oakley,1,1.0,1,-0.5
 29,3,Carole Baskin,Pasha Pashkov,Carole Baskin,1,1.0,1,-1.0
 29,4,Anne Heche,Keo Motsepe,Anne Heche,1,1.0,1,-0.5
-29,5,Chrishell Stause,Gleb Savchenko,Jesse Metcalfe,1,0.0,0,-1.0
-29,6,Veron Davis,Peta Murgatroyd,Veron Davis,1,1.0,1,-0.2
-29,7,"Chrishell Stause, Jeannie Mai","Gleb Savchenko, Brandon Armstrong","Jeannie Mai, Monica Aldama",2,0.5,0,-1.0
+29,5,Jesse Metcalfe,Sharna Burgess,Jesse Metcalfe,1,1.0,1,-1.0
+29,6,Veron Davis,Peta Murgatroyd,Veron Davis,1,1.0,1,-1.0
+29,7,"Monica Aldama, Jeannie Mai","Valentin Chmerkovskiy, Brandon Armstrong","Monica Aldama, Jeannie Mai",2,1.0,1,-0.5
 29,8,Chrishell Stause,Gleb Savchenko,Chrishell Stause,1,1.0,1,-1.0
 29,9,AJ McLean,Cheryl Burke,AJ McLean,1,1.0,1,-1.0
-29,10,"Johnny Weir, Skai Jackson","Britt Stewart, Alan Bersten","Skai Jackson, Johnny Weir",2,1.0,1,-0.5
+29,10,"Johnny Weir, Justina Machado","Britt Stewart, Sasha Farber","Johnny Weir, Skai Jackson",2,0.5,0,-1.0
 30,2,Martin Kove,Britt Stewart,Martin Kove,1,1.0,1,-1.0
 30,3,Christine Chiu,Pasha Pashkov,Christine Chiu,1,1.0,1,-1.0
-30,4,"Brian Austin Green, Matt James","Sharna Burgess, Lindsay Arnold","Brian Austin Green, Matt James",2,1.0,1,1.0
-30,5,Jimmie Allen,Emma Slater,Melanie C,1,0.0,0,-1.0
+30,4,"Brian Austin Green, Matt James","Sharna Burgess, Lindsay Arnold","Matt James, Brian Austin Green",2,1.0,1,-0.5
+30,5,"Mike ""The Miz"" Mizanin",Witney Carson,Melanie C,1,0.0,0,-1.0
 30,6,Kenya Moore,Brandon Armstrong,Kenya Moore,1,1.0,1,-0.5
-30,7,"Mike ""The Miz"" Mizanin",Witney Carson,"Mike ""The Miz"" Mizanin",1,1.0,1,-0.5
-30,8,"Jimmie Allen, Melora Hardin","Emma Slater, Artem Chigvintsev","Jimmie Allen, Olivia Jade",2,0.5,0,-1.0
-30,9,"Melora Hardin, Suni Lee","Artem Chigvintsev, Sasha Farber","Melora Hardin, Suni Lee",2,1.0,1,-1.0
-31,1,Trevor Donovan,Emma Slater,Jason Lewis,1,0.0,0,-1.0
-31,2,Teresa Giudice,Pasha Pashkov,Teresa Giudice,1,1.0,1,-0.5
-31,3,Shangela,Gleb Savchenko,Cheryl Ladd,1,0.0,0,-1.0
-31,4,Sam Champion,Cheryl Burke,Sam Champion,1,1.0,1,-0.2
-31,5,"Trevor Donovan, Shangela","Emma Slater, Gleb Savchenko","Joseph Baena, Selma Blair",2,0.0,0,-1.0
-31,6,Daniel Durant,Britt Stewart,Jessie James Decker,1,0.0,0,-1.0
-31,7,Shangela,Gleb Savchenko,Jordin Sparks,1,0.0,0,-1.0
-31,8,"Vinny Guadagnino, Heidi D'Amelio","Koko Iwasaki, Artem Chigvintsev","Heidi D'Amelio, Vinny Guadagnino",2,1.0,1,-0.5
-31,9,"Trevor Donovan, Daniel Durant","Emma Slater, Britt Stewart","Trevor Donovan, Daniel Durant",2,1.0,1,-0.5
-32,1,Matt Walsh,Koko Iwasaki,Matt Walsh,1,1.0,1,-0.5
-32,2,Adrian Peterson,Britt Stewart,Jamie Lynn Spears,1,0.0,0,-1.0
-32,3,Mira Sorvino,Gleb Savchenko,Tyson Beckford,1,0.0,0,-1.0
-32,4,Adrian Peterson,Britt Stewart,Adrian Peterson,1,1.0,1,-1.0
-32,5,Mauricio Umansky,Emma Slater,Mira Sorvino,1,0.0,0,-1.0
+30,7,"Mike ""The Miz"" Mizanin",Witney Carson,"Mike ""The Miz"" Mizanin",1,1.0,1,-1.0
+30,8,"Jimmie Allen, Olivia Jade","Emma Slater, Valentin Chmerkovskiy","Jimmie Allen, Olivia Jade",2,1.0,1,-1.0
+30,9,"Melora Hardin, Suni Lee","Artem Chigvintsev, Sasha Farber","Suni Lee, Melora Hardin",2,1.0,1,-1.0
+31,1,Jason Lewis,Peta Murgatroyd,Jason Lewis,1,1.0,1,-0.5
+31,2,Cheryl Ladd,Louis van Amstel,Teresa Giudice,1,0.0,0,-1.0
+31,3,Cheryl Ladd,Louis van Amstel,Cheryl Ladd,1,1.0,1,-1.0
+31,4,Sam Champion,Cheryl Burke,Sam Champion,1,1.0,1,-1.0
+31,5,"Jessie James Decker, Selma Blair","Alan Bersten, Sasha Farber","Selma Blair, Joseph Baena",2,0.5,0,-1.0
+31,6,Jordin Sparks,Brandon Armstrong,Jessie James Decker,1,0.0,0,-1.0
+31,7,Heidi D'Amelio,Artem Chigvintsev,Jordin Sparks,1,0.0,0,-1.0
+31,8,"Vinny Guadagnino, Heidi D'Amelio","Koko Iwasaki, Artem Chigvintsev","Heidi D'Amelio, Vinny Guadagnino",2,1.0,1,-1.0
+31,9,"Trevor Donovan, Daniel Durant","Emma Slater, Britt Stewart","Daniel Durant, Trevor Donovan",2,1.0,1,-0.5
+32,1,Matt Walsh,Koko Iwasaki,Matt Walsh,1,1.0,1,-1.0
+32,2,Tyson Beckford,Jenna Johnson,Jamie Lynn Spears,1,0.0,0,-1.0
+32,3,Tyson Beckford,Jenna Johnson,Tyson Beckford,1,1.0,1,-0.5
+32,4,Mira Sorvino,Gleb Savchenko,Adrian Peterson,1,0.0,0,-1.0
+32,5,Mira Sorvino,Gleb Savchenko,Mira Sorvino,1,1.0,1,-0.5
 32,6,Mauricio Umansky,Emma Slater,Mauricio Umansky,1,1.0,1,-1.0
 32,7,Barry Williams,Peta Murgatroyd,Lele Pons,1,0.0,0,-1.0
-32,8,Barry Williams,Peta Murgatroyd,Barry Williams,1,1.0,1,-1.0
+32,8,Harry Jowsey,Rylee Arnold,Barry Williams,1,0.0,0,-1.0
 32,9,Harry Jowsey,Rylee Arnold,Harry Jowsey,1,1.0,1,-0.5
-33,2,"Eric Roberts, Reginald VelJohnson","Britt Stewart, Emma Slater","Tori Spelling, Anna Delvey",2,0.0,0,-1.0
-33,3,"Eric Roberts, Reginald VelJohnson","Britt Stewart, Emma Slater","Eric Roberts, Reginald VelJohnson",2,1.0,1,-1.0
+33,2,"Eric Roberts, Reginald VelJohnson","Britt Stewart, Emma Slater","Anna Delvey, Tori Spelling",2,0.0,0,-1.0
+33,3,"Reginald VelJohnson, Eric Roberts","Emma Slater, Britt Stewart","Reginald VelJohnson, Eric Roberts",2,1.0,1,-1.0
 33,4,Brooks Nader,Gleb Savchenko,Brooks Nader,1,1.0,1,-1.0
 33,5,Phaedra Parks,Val Chmerkovskiy,Phaedra Parks,1,1.0,1,-1.0
-33,6,Stephen Nedoroscik,Rylee Arnold,Jenn Tran,1,0.0,0,-1.0
-33,7,Dwight Howard ,Daniella Karagach,Dwight Howard ,1,1.0,1,0.5
-34,2,"Baron Davis, Andy Richter","Britt Stewart, Emma Slater/Kaitlyn Bristowe (week 9)","Corey Feldman, Baron Davis",2,0.5,0,-1.0
-34,3,Lauren Jauregui,Brandon Armstrong,Lauren Jauregui,1,1.0,1,-0.5
-34,4,Hilaria Baldwin,Gleb Savchenko,Hilaria Baldwin,1,1.0,1,-1.0
+33,6,Jenn Tran,Sasha Farber,Jenn Tran,1,1.0,1,-1.0
+33,7,Dwight Howard ,Daniella Karagach,Dwight Howard ,1,1.0,1,-1.0
+34,2,"Corey Feldman, Baron Davis","Jenna Johnson, Britt Stewart","Corey Feldman, Baron Davis",2,1.0,1,-1.0
+34,3,Lauren Jauregui,Brandon Armstrong,Lauren Jauregui,1,1.0,1,-1.0
+34,4,Andy Richter,Emma Slater/Kaitlyn Bristowe (week 9),Hilaria Baldwin,1,0.0,0,-1.0
 34,6,Scott Hoying,Rylee Arnold,Scott Hoying,1,1.0,1,-1.0
 34,7,Danielle Fishel,Pasha Pashkov,Jen Affleck,1,0.0,0,-1.0
-34,8,Danielle Fishel,Pasha Pashkov,Danielle Fishel,1,1.0,1,-1.0
+34,8,Andy Richter,Emma Slater/Kaitlyn Bristowe (week 9),Danielle Fishel,1,0.0,0,-1.0
 34,9,Andy Richter,Emma Slater/Kaitlyn Bristowe (week 9),Andy Richter,1,1.0,1,-1.0
 34,10,Elaine Hendrix,Alan Bersten (Rashad Jennings week 9),Whitney Leavitt,1,0.0,0,-1.0
