@@ -123,9 +123,42 @@ def main() -> None:
         weekly_max, left_on=["season", "week"], right_index=True, how="left"
     )
 
+    weekly_sum = (
+        active_df.groupby(["season", "week"])["week_total_judge"]
+        .sum()
+        .rename("weekly_sum_judge")
+    )
+    active_df = active_df.merge(
+        weekly_sum, left_on=["season", "week"], right_index=True, how="left"
+    )
+
+    weekly_mean = (
+        active_df.groupby(["season", "week"])["week_total_judge"]
+        .mean()
+        .rename("weekly_mean_judge")
+    )
+    active_df = active_df.merge(
+        weekly_mean, left_on=["season", "week"], right_index=True, how="left"
+    )
+
+    weekly_std = (
+        active_df.groupby(["season", "week"])["week_total_judge"]
+        .std()
+        .rename("weekly_std_judge")
+    )
+    active_df = active_df.merge(
+        weekly_std, left_on=["season", "week"], right_index=True, how="left"
+    )
+
     active_df["judge_pct"] = active_df["week_total_judge"] / active_df[
         "weekly_max_judge"
     ]
+    active_df["judge_share"] = active_df["week_total_judge"] / active_df[
+        "weekly_sum_judge"
+    ]
+    active_df["judge_zscore"] = (
+        active_df["week_total_judge"] - active_df["weekly_mean_judge"]
+    ) / active_df["weekly_std_judge"].replace(0, 1)
 
     weekly_rank = (
         active_df.groupby(["season", "week"])["week_total_judge"]
@@ -142,6 +175,17 @@ def main() -> None:
         .cumcount()
         .add(1)
         .astype(int)
+    )
+    active_df["week_total_judge_change"] = (
+        active_df.groupby(["season", "celebrity_name"])["week_total_judge"]
+        .diff()
+        .fillna(0)
+    )
+    active_df["week_total_judge_trend"] = (
+        active_df.groupby(["season", "celebrity_name"])["week_total_judge"]
+        .rolling(window=2, min_periods=1)
+        .mean()
+        .reset_index(level=[0, 1], drop=True)
     )
     active_df["relative_cumulative_weeks"] = (
         active_df["cumulative_weeks"] / active_df["season_total_weeks"]
@@ -168,8 +212,28 @@ def main() -> None:
         active_df["weekly_judge_rank"] / active_df["weekly_contestant_count"]
     )
 
+    active_df["weekly_judge_share_rank"] = (
+        active_df.groupby(["season", "week"])["judge_share"]
+        .rank(method="min", ascending=False)
+        .astype(int)
+    )
+    active_df["weekly_judge_share_rank_pct"] = (
+        active_df["weekly_judge_share_rank"]
+        / active_df["weekly_contestant_count"]
+    )
+
     active_df["popularity_deviation"] = (
         active_df["rank_pct"] - active_df["judge_pct"]
+    )
+
+    active_df["judge_rank_interaction"] = (
+        active_df["judge_pct"] * active_df["rank_pct"]
+    )
+    active_df["judge_popularity_interaction"] = (
+        active_df["judge_pct"] * active_df["popularity_deviation"]
+    )
+    active_df["rank_popularity_interaction"] = (
+        active_df["rank_pct"] * active_df["popularity_deviation"]
     )
 
     output_cols = [
@@ -190,14 +254,26 @@ def main() -> None:
         "week_total_judge",
         "season_total_weeks",
         "weekly_contestant_count",
+        "weekly_sum_judge",
+        "weekly_mean_judge",
+        "weekly_std_judge",
         "judge_pct",
+        "judge_share",
+        "judge_zscore",
         "rank_pct",
         "popularity_deviation",
+        "judge_rank_interaction",
+        "judge_popularity_interaction",
+        "rank_popularity_interaction",
         "cumulative_weeks",
         "relative_cumulative_weeks",
+        "week_total_judge_change",
+        "week_total_judge_trend",
         "survival_advantage",
         "weekly_judge_rank",
         "weekly_judge_rank_pct",
+        "weekly_judge_share_rank",
+        "weekly_judge_share_rank_pct",
     ]
 
     active_df[output_cols].to_csv(OUTPUT_PATH, index=False)

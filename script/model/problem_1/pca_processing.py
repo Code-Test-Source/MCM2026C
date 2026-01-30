@@ -20,12 +20,19 @@ ID_COLS = [
     "ballroom_partner",
 ]
 
+EXCLUDE_COLS = [
+    "composite_attractiveness",
+    "results",
+    "placement",
+]
+
 
 def main() -> None:
     df = pd.read_csv(INPUT_PATH, na_values=["N/A", "NA", ""])
 
     id_df = df[ID_COLS].copy() if set(ID_COLS).issubset(df.columns) else pd.DataFrame()
-    feature_df = df.drop(columns=[c for c in ID_COLS if c in df.columns])
+    drop_cols = [c for c in ID_COLS + EXCLUDE_COLS if c in df.columns]
+    feature_df = df.drop(columns=drop_cols)
 
     categorical_cols = feature_df.select_dtypes(include=["object", "string"]).columns
     numeric_cols = feature_df.select_dtypes(include=["number", "bool"]).columns
