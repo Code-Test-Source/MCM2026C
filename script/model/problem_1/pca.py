@@ -55,7 +55,7 @@ def main() -> None:
         remainder="drop",
     )
 
-    pca = PCA(n_components=0.95, random_state=42)
+    pca = PCA(n_components=0.85, random_state=42)
     pipeline = Pipeline(steps=[("preprocessor", preprocessor), ("pca", pca)])
 
     transformed = pipeline.fit_transform(feature_df)
