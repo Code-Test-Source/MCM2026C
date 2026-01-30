@@ -19,6 +19,7 @@ MCM2026C/
 ```
 ### Collaboration Guidelines
 ```plaintext
+git clone repo
 git pull # To fetch and merge changes from the remote repository
 git add <file> # To stage changes for commit
 git commit -m "docs:update readme" # To commit staged changes with a message
