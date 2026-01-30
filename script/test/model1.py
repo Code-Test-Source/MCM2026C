@@ -918,7 +918,7 @@ class DWTSFanVoteEstimator:
             'min_samples_split': [2, 4, 6],
             'min_samples_leaf': [1, 2, 4]
         }
-        rs = RandomizedSearchCV(base_rf, param_dist, n_iter=40, cv=3, random_state=42, n_jobs=-1)
+        rs = RandomizedSearchCV(base_rf, param_dist, n_iter=120, cv=3, random_state=42, n_jobs=-1)
         rs.fit(X_train, y_train)
         rf_res = rs.best_estimator_
 
@@ -1132,7 +1132,7 @@ class DWTSFanVoteEstimator:
             'min_samples_split': [2, 4, 6],
             'min_samples_leaf': [1, 2, 4]
         }
-        rs = RandomizedSearchCV(base_rf, param_dist, n_iter=40, cv=3, random_state=42, n_jobs=-1)
+        rs = RandomizedSearchCV(base_rf, param_dist, n_iter=120, cv=3, random_state=42, n_jobs=-1)
         rs.fit(X_train_rf, res_train)
         rf_res = rs.best_estimator_
 

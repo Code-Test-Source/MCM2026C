@@ -10,7 +10,7 @@ MCM2026C/
 │   ├── raw/                # Raw data files
 │   ├── result/                # Result data files
 │   └── processed/          # Processed data files
-├── src/
+├── script/
 │   ├── data/             # Data processing scripts
 │   ├── model/           # Model training and evaluation scripts
 |   ├── plot/     # Visualization scripts
@@ -34,18 +34,18 @@ Commit message:
 First delete all the example files in the directory when you push your first actual files in the directory.
 1. Data Collection and Preprocessing
    - Collect raw data and store it in the `data/raw/` directory.
-   - Write data preprocessing scripts in `src/data/` to clean and transform the raw data.
+   - Write data preprocessing scripts in `script/data/` to clean and transform the raw data.
    - Save processed data in the `data/processed/` directory.
 2. Model Development
-   - Implement model training and evaluation scripts in `src/model/`.
+   - Implement model training and evaluation scripts in `script/model/`.
    - Use processed data from `data/processed/` for training and testing the models.
    - Store model results in the `data/result/` directory.
 3. Visualization
-   - Create visualization scripts in `src/plot/` to generate plots and charts based on model results.
+   - Create visualization scripts in `script/plot/` to generate plots and charts based on model results.
    - Save generated visualizations in an appropriate directory (e.g., `data/result/`).
 4. Analysis
-   - Write analysis scripts in `src/analysis/` to interpret model results and derive insights.
+   - Write analysis scripts in `script/analysis/` to interpret model results and derive insights.
    - Regularly commit and push changes to the remote repository to keep the project up-to-date.
 5. Test
-   - Implement testing scripts in `src/test/` to try new ideas and without disturbing the model folder.
+   - Implement testing scripts in `script/test/` to try new ideas and without disturbing the model folder.
    - Ensure that all new code is tested before integrating it into the main workflow.
