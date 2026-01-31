@@ -1,0 +1,268 @@
+season,week,method,predicted_eliminated,actual_eliminated,actual_count,correct_ratio,exact_match
+1,2,rank,Trista Sutter,Trista Sutter,1,1.0,1
+1,3,rank,Evander Holyfield,Evander Holyfield,1,1.0,1
+1,4,rank,Joey McIntyre,Rachel Hunter,1,0.0,0
+1,6,rank,Joey McIntyre,Joey McIntyre,1,1.0,1
+2,1,rank,Kenny Mayne,Kenny Mayne,1,1.0,1
+2,2,rank,Tatum O'Neal,Tatum O'Neal,1,1.0,1
+2,3,rank,Master P,Giselle Fernandez,1,0.0,0
+2,4,rank,Master P,Master P,1,1.0,1
+2,5,rank,Tia Carrere,Tia Carrere,1,1.0,1
+2,6,rank,George Hamilton,George Hamilton,1,1.0,1
+2,7,rank,Lisa Rinna,Lisa Rinna,1,1.0,1
+3,1,percent,Tucker Carlson,Tucker Carlson,1,1.0,1
+3,2,percent,Jerry Springer,Shanna Moakler,1,0.0,0
+3,3,percent,Emmitt Smith,Harry Hamlin,1,0.0,0
+3,4,percent,Sara Evans,Vivica A. Fox,1,0.0,0
+3,5,percent,"Sara Evans, Jerry Springer","Willa Ford, Sara Evans",2,0.5,0
+3,7,percent,Jerry Springer,Jerry Springer,1,1.0,1
+3,8,percent,Joey Lawrence,Monique Coleman,1,0.0,0
+3,10,percent,Joey Lawrence,Joey Lawrence,1,1.0,1
+4,2,percent,Clyde Drexler,Paulina Porizkova,1,0.0,0
+4,3,percent,Clyde Drexler,Shandi Finnessey,1,0.0,0
+4,4,percent,Clyde Drexler,Leeza Gibbons,1,0.0,0
+4,5,percent,Clyde Drexler,Clyde Drexler,1,1.0,1
+4,6,percent,John Ratzenberger,Heather Mills,1,0.0,0
+4,7,percent,Billy Ray Cyrus,John Ratzenberger,1,0.0,0
+4,8,percent,Billy Ray Cyrus,Billy Ray Cyrus,1,1.0,1
+4,9,percent,Ian Ziering,Ian Ziering,1,1.0,1
+5,1,percent,Josie Maran,Josie Maran,1,1.0,1
+5,2,percent,Wayne Newton,Albert Reed,1,0.0,0
+5,3,percent,Wayne Newton,Wayne Newton,1,1.0,1
+5,4,percent,Mark Cuban,Floyd Mayweather Jr. ,1,0.0,0
+5,5,percent,Marie Osmond,Mark Cuban,1,0.0,0
+5,6,percent,Jane Seymour,Sabrina Bryan,1,0.0,0
+5,7,percent,Jane Seymour,Jane Seymour,1,1.0,1
+5,8,percent,Marie Osmond,Cameron Mathison,1,0.0,0
+5,9,percent,Marie Osmond,Jennie Garth,1,0.0,0
+6,2,percent,"Monica Seles, Steve Guttenberg","Monica Seles, Penn Jillette",2,0.5,0
+6,3,percent,Marissa Jaret Winokur,Steve Guttenberg,1,0.0,0
+6,4,percent,Adam Carolla,Adam Carolla,1,1.0,1
+6,5,percent,Priscilla Presley,Priscilla Presley,1,1.0,1
+6,6,percent,Marlee Matlin,Marlee Matlin,1,1.0,1
+6,7,percent,Cristian de la Fuente,Shannon Elizabeth,1,0.0,0
+6,8,percent,Marissa Jaret Winokur,Mario,1,0.0,0
+6,9,percent,Marissa Jaret Winokur,Marissa Jaret Winokur,1,1.0,1
+7,1,percent,"Jeffrey Ross, Cloris Leachman","Jeffrey Ross, Ted McGinley",2,0.5,0
+7,2,percent,"Cloris Leachman, Rocco DiSpirito","Kim Kardashian, Misty May-Treanor",2,0.0,0
+7,4,percent,Rocco DiSpirito,Rocco DiSpirito,1,1.0,1
+7,5,percent,Lance Bass,Toni Braxton,1,0.0,0
+7,6,percent,Cloris Leachman,Cloris Leachman,1,1.0,1
+7,7,percent,Warren Sapp,Susan Lucci,1,0.0,0
+7,8,percent,Maurice Greene,Maurice Greene,1,1.0,1
+7,9,percent,Cody Linley,Cody Linley,1,1.0,1
+8,2,percent,Steve-O,Belinda Carlisle,1,0.0,0
+8,3,percent,Steve Wozniak,Denise Richards,1,0.0,0
+8,4,percent,"Steve Wozniak, Steve-O","Steve Wozniak, Holly Madison",2,0.5,0
+8,5,percent,Steve-O,David Alan Grier,1,0.0,0
+8,6,percent,Steve-O,Steve-O,1,1.0,1
+8,7,percent,Lawrence Taylor,Lawrence Taylor,1,1.0,1
+8,8,percent,Melissa Rycroft,Chuck Wicks,1,0.0,0
+8,9,percent,Ty Murray,Lil' Kim,1,0.0,0
+8,10,percent,Ty Murray,Ty Murray,1,1.0,1
+9,1,percent,"Ashley Hamiliton, Michael Irvin","Ashley Hamiliton, Macy Gray",2,0.5,0
+9,2,percent,Tom DeLay,Kathy Ireland,1,0.0,0
+9,3,percent,"Michael Irvin, Tom DeLay","Tom DeLay, Debi Mazar",2,0.5,0
+9,4,percent,Michael Irvin,Chuck Liddell,1,0.0,0
+9,5,percent,Michael Irvin,Natalie Coughlin,1,0.0,0
+9,6,percent,"Michael Irvin, Melissa Joan Hart","Louie Vito, Melissa Joan Hart",2,0.5,0
+9,7,percent,"Mark Dacascos, Michael Irvin","Michael Irvin, Mark Dacascos",2,1.0,1
+9,8,percent,Aaron Carter,Aaron Carter,1,1.0,1
+9,9,percent,Donny Osmond,Joanna Krupa,1,0.0,0
+10,2,percent,Buzz Aldrin,Shannen Doherty,1,0.0,0
+10,3,percent,Buzz Aldrin,Buzz Aldrin,1,1.0,1
+10,4,percent,Kate Gosselin,Aiden Turner,1,0.0,0
+10,5,percent,Kate Gosselin,Kate Gosselin,1,1.0,1
+10,6,percent,Jake Pavelka,Jake Pavelka,1,1.0,1
+10,7,percent,Niecy Nash,Pamela Anderson,1,0.0,0
+10,8,percent,Niecy Nash,Niecy Nash,1,1.0,1
+10,9,percent,Chad Ochocinco,Chad Ochocinco,1,1.0,1
+11,1,percent,David Hasselhoff,David Hasselhoff,1,1.0,1
+11,2,percent,Michael Bolton,Michael Bolton,1,1.0,1
+11,3,percent,Margaret Cho,Margaret Cho,1,1.0,1
+11,4,percent,The Situation,The Situation,1,1.0,1
+11,5,percent,Bristol Palin,Florence Henderson,1,0.0,0
+11,6,percent,Kurt Warner,Audrina Patridge,1,0.0,0
+11,7,percent,Bristol Palin,Rick Fox,1,0.0,0
+11,8,percent,Bristol Palin,Kurt Warner,1,0.0,0
+11,9,percent,Bristol Palin,Brandy,1,0.0,0
+12,2,percent,Mike Catherwood,Mike Catherwood,1,1.0,1
+12,3,percent,Wendy Williams,Wendy Williams,1,1.0,1
+12,4,percent,Kendra Wilkinson,Sugar Ray Leonard,1,0.0,0
+12,5,percent,Ralph Macchio,Petra Nemcova,1,0.0,0
+12,6,percent,Chris Jericho,Chris Jericho,1,1.0,1
+12,7,percent,Romeo,Kendra Wilkinson,1,0.0,0
+12,8,percent,Ralph Macchio,Romeo,1,0.0,0
+12,9,percent,Ralph Macchio,Ralph Macchio,1,1.0,1
+13,1,percent,Metta World Peace (Ron),Metta World Peace (Ron),1,1.0,1
+13,2,percent,Chaz Bono,Elisabetta Canalis,1,0.0,0
+13,3,percent,Chaz Bono,Kristin Cavallari,1,0.0,0
+13,4,percent,Carson Kressley,Chynna Phillips,1,0.0,0
+13,5,percent,Carson Kressley,Carson Kressley,1,1.0,1
+13,6,percent,Chaz Bono,Chaz Bono,1,1.0,1
+13,7,percent,Nancy Grace,David Arquette,1,0.0,0
+13,8,percent,Nancy Grace,Nancy Grace,1,1.0,1
+13,9,percent,Hope Solo,Hope Solo,1,1.0,1
+14,2,percent,Martina Navratilova,Martina Navratilova,1,1.0,1
+14,3,percent,Gladys Knight,Jack Wagner,1,0.0,0
+14,4,percent,Gladys Knight,Sherri Sheperd,1,0.0,0
+14,5,percent,Gavin DeGraw,Gavin DeGraw,1,1.0,1
+14,6,percent,Gladys Knight,Gladys Knight,1,1.0,1
+14,7,percent,Melissa Gilbert,Jaleel White,1,0.0,0
+14,8,percent,"Melissa Gilbert, Maria Menounos","Roshon Fegan, Melissa Gilbert",2,0.5,0
+14,9,percent,Katherine Jenkins,Maria Menounos,1,0.0,0
+15,1,percent,Pamela Anderson,Pamela Anderson,1,1.0,1
+15,2,percent,Bristol Palin,Joey Fatone,1,0.0,0
+15,3,percent,"Bristol Palin, Drew Lachey","Helio Castroneves, Drew Lachey",2,0.5,0
+15,4,percent,Kirstie Alley,Bristol Palin,1,0.0,0
+15,6,percent,Emmitt Smith,Sabrina Bryan,1,0.0,0
+15,8,percent,"Kirstie Alley, Shawn Johnson","Gilles Marini, Kirstie Alley",2,0.5,0
+15,9,percent,"Emmitt Smith, Melissa Rycroft","Emmitt Smith, Apolo Anton Ohno",2,0.5,0
+16,2,percent,Dorothy Hamill,Dorothy Hamill,1,1.0,1
+16,3,percent,Wynonna Judd,Wynonna Judd,1,1.0,1
+16,4,percent,Lisa Vanderpump,Lisa Vanderpump,1,1.0,1
+16,5,percent,D. L. Hughley,D. L. Hughley,1,1.0,1
+16,6,percent,Victor Ortiz,Victor Ortiz,1,1.0,1
+16,7,percent,Andy Dick,Andy Dick,1,1.0,1
+16,8,percent,Sean Lowe,Sean Lowe,1,1.0,1
+16,9,percent,Ingo Rademacher,Ingo Rademacher,1,1.0,1
+16,10,percent,Jacoby Jones,Alexandra Raisman,1,0.0,0
+17,2,percent,Bill Nye,Keyshawn Johnson,1,0.0,0
+17,3,percent,Valerie Harper,Bill Nye,1,0.0,0
+17,4,percent,Valerie Harper,Valerie Harper,1,1.0,1
+17,5,percent,Leah Remini,Christina Milian,1,0.0,0
+17,7,percent,Bill Engvall,"Nicole ""Snooki"" Polizzi",1,0.0,0
+17,8,percent,Bill Engvall,Brant Daugherty,1,0.0,0
+17,9,percent,Bill Engvall,Elizabeth Berkley Lauren,1,0.0,0
+17,10,percent,Bill Engvall,Leah Remini,1,0.0,0
+17,11,percent,Bill Engvall,Bill Engvall,1,1.0,1
+18,2,percent,"Billy Dee Williams, Drew Carey","Sean Avery, Billy Dee Williams",2,0.5,0
+18,5,percent,Drew Carey,Cody Simpson,1,0.0,0
+18,6,percent,Drew Carey,Drew Carey,1,1.0,1
+18,7,percent,NeNe Leakes,NeNe Leakes,1,1.0,1
+18,8,percent,Meryl Davis,Danica McKellar,1,0.0,0
+18,9,percent,Candace Cameron Bure,Charlie White,1,0.0,0
+18,10,percent,Candace Cameron Bure,James Maslow,1,0.0,0
+19,1,percent,Betsey Johnson,Lolo Jones,1,0.0,0
+19,2,percent,Michael Waltrip,Tavis Smiley,1,0.0,0
+19,3,percent,Randy Couture,Randy Couture,1,1.0,1
+19,4,percent,Michael Waltrip,Betsey Johnson,1,0.0,0
+19,6,percent,Antonio Sabato Jr.,Jonathan Bennett,1,0.0,0
+19,7,percent,Michael Waltrip,Antonio Sabato Jr.,1,0.0,0
+19,8,percent,Michael Waltrip,Michael Waltrip,1,1.0,1
+19,9,percent,Tommy Chong,Lea Thompson,1,0.0,0
+19,10,percent,Tommy Chong,Tommy Chong,1,1.0,1
+19,11,percent,Sadie Robertson,Bethany Mota,1,0.0,0
+20,2,percent,Chris Soules,Redfoo,1,0.0,0
+20,3,percent,Patti LaBelle,Charlotte McKinney,1,0.0,0
+20,4,percent,Suzanne Somers,Michael Sam,1,0.0,0
+20,5,percent,Robert Herjavec,Suzanne Somers,1,0.0,0
+20,6,percent,Patti LaBelle,Patti LaBelle,1,1.0,1
+20,7,percent,Chris Soules,Willow Shields,1,0.0,0
+20,8,percent,"Robert Herjavec, Noah Galloway","Robert Herjavec, Chris Soules",2,0.5,0
+20,9,percent,Rumer Willis,Nastia Liukin,1,0.0,0
+21,2,percent,"Chaka Khan, Gary Busey, Victor Espinoza","Chaka Khan, Kim Zolciak-Biermann, Victor Espinoza",3,0.6666666666666666,0
+21,4,percent,Gary Busey,Gary Busey,1,1.0,1
+21,6,percent,Paula Deen,Paula Deen,1,1.0,1
+21,7,percent,Alek Skarlatos,Hayes Grier,1,0.0,0
+21,8,percent,Andy Grammer,Andy Grammer,1,1.0,1
+21,9,percent,"Tamar Braxton, Carlos PenaVega","Tamar Braxton, Alexa PenaVega",2,0.5,0
+21,11,percent,Alek Skarlatos,Carlos PenaVega,1,0.0,0
+22,2,percent,Geraldo Rivera,Geraldo Rivera,1,1.0,1
+22,3,percent,Mischa Barton,Mischa Barton,1,1.0,1
+22,4,percent,Doug Flutie,Marla Maples,1,0.0,0
+22,6,percent,Doug Flutie,Doug Flutie,1,1.0,1
+22,7,percent,"Jodie Sweetin, Antonio Brown","Von Miller, Kim Fields",2,0.0,0
+22,8,percent,Wanya Morris,Jodie Sweetin,1,0.0,0
+22,9,percent,"Antonio Brown, Nyle DiMarco","Antonio Brown, Wanya Morris",2,0.5,0
+23,2,percent,Rick Perry,Jake T. Austin,1,0.0,0
+23,3,percent,Vanilla Ice,Rick Perry,1,0.0,0
+23,4,percent,"Babyface, Marilu Henner","Babyface, Vanilla Ice",2,0.5,0
+23,6,percent,Amber Rose,Amber Rose,1,1.0,1
+23,7,percent,Marilu Henner,Maureen McCormick,1,0.0,0
+23,8,percent,Marilu Henner,Ryan Lochte,1,0.0,0
+23,9,percent,James Hinchcliffe,Marilu Henner,1,0.0,0
+23,10,percent,Jana Kramer,Terra Jole,1,0.0,0
+23,11,percent,Jana Kramer,Jana Kramer,1,1.0,1
+24,2,percent,Mr. T,Chris Kattan,1,0.0,0
+24,3,percent,Charo,Charo,1,1.0,1
+24,4,percent,Mr. T,Mr. T,1,1.0,1
+24,5,percent,Bonner Bolton,Erika Jayne,1,0.0,0
+24,6,percent,Nick Viall,Heather Morris,1,0.0,0
+24,7,percent,"Bonner Bolton, David Ross","Nick Viall, Nancy Kerrigan",2,0.0,0
+24,8,percent,Bonner Bolton,Bonner Bolton,1,1.0,1
+24,9,percent,David Ross,Simone Biles,1,0.0,0
+25,2,percent,"Barbara Corcoran, Derek Fisher","Debbie Gibson, Barbara Corcoran",2,0.5,0
+25,4,percent,Nick Lachey,Derek Fisher,1,0.0,0
+25,5,percent,Nick Lachey,Sasha Pieterse,1,0.0,0
+25,6,percent,Nick Lachey,Nick Lachey,1,1.0,1
+25,7,percent,"Nikki Bella, Terrell Owens","Vanessa Lachey, Nikki Bella",2,0.5,0
+25,8,percent,Drew Scott,Terrell Owens,1,0.0,0
+25,9,percent,Drew Scott,Victoria Arlen,1,0.0,0
+25,10,percent,Drew Scott,Drew Scott,1,1.0,1
+26,1,percent,"Kareem Abdul-Jabbar, Johnny Damon","Jamie Anderson, Johnny Damon",2,0.5,0
+26,2,percent,"Jennie Finch Daigle, Kareem Abdul-Jabbar","Arike Ogunbowale, Kareem Abdul-Jabbar",2,0.5,0
+26,3,percent,"Jennie Finch Daigle, Chris Mazdzer, Mirai Nagasu","Mirai Nagasu, Jennie Finch Daigle, Chris Mazdzer",3,1.0,1
+27,1,percent,Joe Amabile,Nikki Glaser,1,0.0,0
+27,2,percent,Joe Amabile,Danelle Umstead,1,0.0,0
+27,3,percent,Joe Amabile,Nancy McKeon,1,0.0,0
+27,4,percent,Joe Amabile,Tinashe,1,0.0,0
+27,6,percent,John Schneider,Mary Lou Retton,1,0.0,0
+27,7,percent,"Joe Amabile, John Schneider","John Schneider, DeMarcus Ware",2,0.5,0
+27,8,percent,"Bobby Bones, Joe Amabile","Juan Pablo Di Pace, Joe Amabile",2,0.5,0
+28,2,rank,"Mary Wilson, Lamar Odom","Ray Lewis, Mary Wilson",2,0.5,0
+28,4,rank,Lamar Odom,Lamar Odom,1,1.0,1
+28,6,rank,Hannah Brown,Sailor Brinkley-Cook,1,0.0,0
+28,7,rank,Karamo Brown,Karamo Brown,1,1.0,1
+28,8,rank,Kate Flannery,Kate Flannery,1,1.0,1
+28,9,rank,Sean Spicer,Sean Spicer,1,1.0,1
+28,10,rank,James Van Der Beek,James Van Der Beek,1,1.0,1
+29,2,rank,Charles Oakley,Charles Oakley,1,1.0,1
+29,3,rank,Carole Baskin,Carole Baskin,1,1.0,1
+29,4,rank,Anne Heche,Anne Heche,1,1.0,1
+29,5,rank,Jesse Metcalfe,Jesse Metcalfe,1,1.0,1
+29,6,rank,Veron Davis,Veron Davis,1,1.0,1
+29,7,rank,"Monica Aldama, Jeannie Mai","Monica Aldama, Jeannie Mai",2,1.0,1
+29,8,rank,Chrishell Stause,Chrishell Stause,1,1.0,1
+29,9,rank,AJ McLean,AJ McLean,1,1.0,1
+29,10,rank,"Johnny Weir, Nelly","Skai Jackson, Johnny Weir",2,0.5,0
+30,2,rank,Martin Kove,Martin Kove,1,1.0,1
+30,3,rank,Cody Rigsby,Christine Chiu,1,0.0,0
+30,4,rank,"Brian Austin Green, Matt James","Brian Austin Green, Matt James",2,1.0,1
+30,5,rank,Iman Shumpert,Melanie C,1,0.0,0
+30,6,rank,Kenya Moore,Kenya Moore,1,1.0,1
+30,7,rank,"Mike ""The Miz"" Mizanin","Mike ""The Miz"" Mizanin",1,1.0,1
+30,8,rank,"Jimmie Allen, Olivia Jade","Jimmie Allen, Olivia Jade",2,1.0,1
+30,9,rank,"Melora Hardin, Cody Rigsby","Suni Lee, Melora Hardin",2,0.5,0
+31,1,rank,Jason Lewis,Jason Lewis,1,1.0,1
+31,2,rank,Teresa Giudice,Teresa Giudice,1,1.0,1
+31,3,rank,Cheryl Ladd,Cheryl Ladd,1,1.0,1
+31,4,rank,Sam Champion,Sam Champion,1,1.0,1
+31,5,rank,"Joseph Baena, Vinny Guadagnino","Selma Blair, Joseph Baena",2,0.5,0
+31,6,rank,Jessie James Decker,Jessie James Decker,1,1.0,1
+31,7,rank,Jordin Sparks,Jordin Sparks,1,1.0,1
+31,8,rank,"Vinny Guadagnino, Heidi D'Amelio","Heidi D'Amelio, Vinny Guadagnino",2,1.0,1
+31,9,rank,"Trevor Donovan, Daniel Durant","Trevor Donovan, Daniel Durant",2,1.0,1
+32,1,rank,Matt Walsh,Matt Walsh,1,1.0,1
+32,2,rank,Mauricio Umansky,Jamie Lynn Spears,1,0.0,0
+32,3,rank,Tyson Beckford,Tyson Beckford,1,1.0,1
+32,4,rank,Barry Williams,Adrian Peterson,1,0.0,0
+32,5,rank,Mira Sorvino,Mira Sorvino,1,1.0,1
+32,6,rank,Mauricio Umansky,Mauricio Umansky,1,1.0,1
+32,7,rank,Barry Williams,Lele Pons,1,0.0,0
+32,8,rank,Harry Jowsey,Barry Williams,1,0.0,0
+32,9,rank,Harry Jowsey,Harry Jowsey,1,1.0,1
+33,2,rank,"Anna Delvey, Eric Roberts","Tori Spelling, Anna Delvey",2,0.5,0
+33,3,rank,"Reginald VelJohnson, Eric Roberts","Reginald VelJohnson, Eric Roberts",2,1.0,1
+33,4,rank,Dwight Howard ,Brooks Nader,1,0.0,0
+33,5,rank,Phaedra Parks,Phaedra Parks,1,1.0,1
+33,6,rank,Ilona Maher,Jenn Tran,1,0.0,0
+33,7,rank,Dwight Howard ,Dwight Howard ,1,1.0,1
+34,2,rank,"Corey Feldman, Baron Davis","Baron Davis, Corey Feldman",2,1.0,1
+34,3,rank,Lauren Jauregui,Lauren Jauregui,1,1.0,1
+34,4,rank,Andy Richter,Hilaria Baldwin,1,0.0,0
+34,6,rank,Scott Hoying,Scott Hoying,1,1.0,1
+34,7,rank,Jen Affleck,Jen Affleck,1,1.0,1
+34,8,rank,Danielle Fishel,Danielle Fishel,1,1.0,1
+34,9,rank,Andy Richter,Andy Richter,1,1.0,1
+34,10,rank,Dylan Efron,Whitney Leavitt,1,0.0,0
