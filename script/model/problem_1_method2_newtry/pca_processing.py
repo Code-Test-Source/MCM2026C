@@ -1,7 +1,5 @@
 from __future__ import annotations
 
-from pathlib import Path
-
 import pandas as pd
 from sklearn.compose import ColumnTransformer
 from sklearn.decomposition import PCA

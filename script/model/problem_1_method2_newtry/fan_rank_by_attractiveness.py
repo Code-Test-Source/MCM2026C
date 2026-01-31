@@ -1,13 +1,12 @@
 from __future__ import annotations
 
 import re
-from pathlib import Path
 
 import pandas as pd
 
 
 INPUT_PATH = (
-    "../../../data/processed/2026_MCM_Problem_C_Data_popularity_features_with_attractiveness.csv"
+    "../../../data/processed/2026_MCM_Problem_C_Data_popularity_features_with_attractiveness_xgboost.csv"
 )
 OUTPUT_PATH = "../../../data/processed/2026_MCM_Problem_C_fan_rank_by_attractiveness.csv"
 

@@ -18,8 +18,6 @@ SUMMARY_PATH = (
 RANK_BASED_SEASONS = set([1, 2, 28, 29, 30, 31, 32, 33, 34])
 ELIM_PATTERN = re.compile(r"(eliminated|withdrew)\s+week\s+(\d+)", re.IGNORECASE)
 
-FAN_BLEND_GRID = [round(x, 2) for x in [-1.0, -0.5, -0.2, 0.0, 0.2, 0.5, 1.0]]
-
 
 def _extract_elimination_week(results: pd.Series) -> pd.Series:
     extracted = results.fillna("").str.extract(ELIM_PATTERN)
@@ -79,7 +77,6 @@ def main() -> None:
     records = []
     accuracy_rank = []
     exact_match_rank = []
-    blend_scores = {b: [] for b in FAN_BLEND_GRID}
 
     for (season, week), group in df.groupby(["season", "week"], sort=True):
         if group.empty:
@@ -106,18 +103,6 @@ def main() -> None:
         else:
             fan_base = (attractiveness - min_a) / (max_a - min_a)
 
-        if "popularity_deviation" in active.columns:
-            pop_dev = active["popularity_deviation"].astype(float)
-            pop_dev = pop_dev.fillna(pop_dev.median())
-            pop_min = float(pop_dev.min())
-            pop_max = float(pop_dev.max())
-            if pop_max - pop_min == 0:
-                pop_scaled = pd.Series(0.0, index=active.index)
-            else:
-                pop_scaled = (pop_dev - pop_min) / (pop_max - pop_min)
-        else:
-            pop_scaled = pd.Series(0.0, index=active.index)
-
         judge_rank = (
             active["week_total_judge"].rank(method="min", ascending=False).astype(int)
         )
@@ -125,57 +110,35 @@ def main() -> None:
         actual_names = set(actual_elim["celebrity_name"].tolist())
         actual_count = len(actual_names)
 
-        week_best_score = -1.0
-        week_best_blend = 0.0
-        week_best_ranked = None
-        week_best_predicted = None
-        week_best_correct = 0.0
-        week_best_exact = 0
+        fan_rank = fan_base.rank(method="min", ascending=False).astype(int)
+        rank_sum = judge_rank + fan_rank
 
-        for blend in FAN_BLEND_GRID:
-            fan_proxy = fan_base + blend * pop_scaled
-            fan_rank = fan_proxy.rank(method="min", ascending=False).astype(int)
-            rank_sum = judge_rank + fan_rank
+        ranked = active.copy()
+        ranked["judge_rank"] = judge_rank
+        ranked["fan_rank"] = fan_rank
+        ranked["rank_sum"] = rank_sum
+        ranked = ranked.sort_values(
+            ["rank_sum", "fan_rank", "judge_rank"],
+            ascending=[False, False, False],
+        )
 
-            ranked = active.copy()
-            ranked["judge_rank"] = judge_rank
-            ranked["fan_rank"] = fan_rank
-            ranked["rank_sum"] = rank_sum
-            ranked = ranked.sort_values(
-                ["rank_sum", "fan_rank", "judge_rank"],
-                ascending=[False, False, False],
-            )
-
-            predicted_rank_names = ranked["celebrity_name"].head(actual_count).tolist()
-            predicted_rank_set = set(predicted_rank_names)
-            correct_rank = len(predicted_rank_set & actual_names) / max(actual_count, 1)
-            score = float(correct_rank)
-
-            blend_scores[blend].append(score)
-
-            if score > week_best_score:
-                week_best_score = score
-                week_best_blend = blend
-                week_best_ranked = ranked
-                week_best_predicted = predicted_rank_names
-                week_best_correct = correct_rank
-                week_best_exact = int(predicted_rank_set == actual_names)
+        predicted_rank_names = ranked["celebrity_name"].head(actual_count).tolist()
+        predicted_rank_set = set(predicted_rank_names)
+        week_best_correct = len(predicted_rank_set & actual_names) / max(actual_count, 1)
+        week_best_exact = int(predicted_rank_set == actual_names)
 
         records.append(
             {
                 "season": season,
                 "week": week,
-                "predicted_eliminated_rank": ", ".join(week_best_predicted or []),
+                "predicted_eliminated_rank": ", ".join(predicted_rank_names),
                 "predicted_partner_rank": ", ".join(
-                    week_best_ranked["ballroom_partner"].head(actual_count).tolist()
-                    if week_best_ranked is not None
-                    else []
+                    ranked["ballroom_partner"].head(actual_count).tolist()
                 ),
                 "actual_eliminated": ", ".join(actual_names),
                 "actual_count": len(actual_names),
                 "correct_rank": week_best_correct,
                 "exact_match_rank": week_best_exact,
-                "best_fan_blend": week_best_blend,
             }
         )
 
@@ -196,18 +159,6 @@ def main() -> None:
             "exact_match_rate_rank": [
                 float(sum(exact_match_rank) / len(exact_match_rank))
                 if exact_match_rank
-                else 0.0
-            ],
-            "best_fan_blend": [
-                max(
-                    blend_scores,
-                    key=lambda b: (
-                        sum(blend_scores[b]) / len(blend_scores[b])
-                        if blend_scores[b]
-                        else 0.0
-                    ),
-                )
-                if blend_scores
                 else 0.0
             ],
         }

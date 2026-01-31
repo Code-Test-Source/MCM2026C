@@ -1,5 +1,4 @@
 import re
-from pathlib import Path
 
 import pandas as pd
 
@@ -22,8 +21,9 @@ def main() -> None:
             "results": "string",
         },
     )
-    print('打印results列所有取值', df['results'].unique())
-    print('打印placement列所有取值', df['placement'].unique())
+    # 需要排查原始字段异常时可临时开启
+    # print("results唯一值:", df["results"].unique())
+    # print("placement唯一值:", df["placement"].unique())
     
     base_cols = [
         "celebrity_name",
@@ -58,6 +58,8 @@ def main() -> None:
     judge_score_cols = [
         c for c in df.columns if re.match(r"^week\d+_judge[1-4]_score$", c)
     ]
+    if not judge_score_cols:
+        raise ValueError("未找到评委打分列(weekX_judgeY_score)，请检查输入数据。")
     for c in judge_score_cols:
         df[c] = pd.to_numeric(df[c], errors="coerce")
 
@@ -78,6 +80,8 @@ def main() -> None:
         tmp["week_total_judge"] = tmp[week_cols].sum(axis=1, skipna=True, min_count=1)
         long_frames.append(tmp[base_cols + ["week", "week_total_judge"]])
 
+    if not long_frames:
+        raise ValueError("未生成任何周数据，请检查评委打分列是否完整。")
     long_df = pd.concat(long_frames, ignore_index=True)
     long_df = long_df.merge(partner_stats, on="ballroom_partner", how="left")
 

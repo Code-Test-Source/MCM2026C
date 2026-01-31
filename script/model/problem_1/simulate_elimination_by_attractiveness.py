@@ -6,7 +6,7 @@ import pandas as pd
 
 
 INPUT_PATH = (
-    "../../../data/processed/2026_MCM_Problem_C_Data_popularity_features_with_attractiveness.csv"
+    "../../../data/processed/2026_MCM_Problem_C_Data_popularity_features_with_attractiveness_rf.csv"
 )
 OUTPUT_PATH = (
     "../../../data/processed/2026_MCM_Problem_C_Attractiveness_Elimination_Sim.csv"
