@@ -1,0 +1,266 @@
+season,week,actual_eliminated,actual_count,predicted_eliminated_rank,predicted_partner_rank,correct_rank,exact_match_rank,predicted_eliminated_percent,predicted_partner_percent,correct_percent,exact_match_percent
+1,2,Trista Sutter,1,Trista Sutter,Louis van Amstel,1.0,1,Evander Holyfield,Edyta Sliwinska,0.0,0
+1,3,Evander Holyfield,1,Evander Holyfield,Edyta Sliwinska,1.0,1,Evander Holyfield,Edyta Sliwinska,1.0,1
+1,4,Rachel Hunter,1,Joey McIntyre,Ashly DelGrosso,0.0,0,Joey McIntyre,Ashly DelGrosso,0.0,0
+2,1,Kenny Mayne,1,Kenny Mayne,Andrea Hale,1.0,1,George Hamilton,Edyta Sliwinska,0.0,0
+2,2,Tatum O'Neal,1,Tatum O'Neal,Nick Kosovich,1.0,1,Tatum O'Neal,Nick Kosovich,1.0,1
+2,3,Giselle Fernandez,1,Master P,Ashly DelGrosso,0.0,0,Master P,Ashly DelGrosso,0.0,0
+2,4,Master P,1,Master P,Ashly DelGrosso,1.0,1,Master P,Ashly DelGrosso,1.0,1
+2,5,Tia Carrere,1,Tia Carrere,Maksim Chmerkoskiy,1.0,1,Jerry Rice,Anna Trebunskaya,0.0,0
+2,6,George Hamilton,1,George Hamilton,Edyta Sliwinska,1.0,1,George Hamilton,Edyta Sliwinska,1.0,1
+2,7,Lisa Rinna,1,Lisa Rinna,Louis van Amstel,1.0,1,Jerry Rice,Anna Trebunskaya,0.0,0
+3,1,Tucker Carlson,1,Tucker Carlson,Elena Grinenko,1.0,1,Tucker Carlson,Elena Grinenko,1.0,1
+3,2,Shanna Moakler,1,Jerry Springer,Kym Johnson,0.0,0,Shanna Moakler,Jesse DeSoto,1.0,1
+3,3,Harry Hamlin,1,Emmitt Smith,Cheryl Burke,0.0,0,Harry Hamlin,Ashly DelGrosso,1.0,1
+3,4,Vivica A. Fox,1,Sara Evans,Tony Dovolani,0.0,0,Vivica A. Fox,Nick Kosovich,1.0,1
+3,5,"Sara Evans, Willa Ford",2,"Sara Evans, Joey Lawrence","Tony Dovolani, Edyta Sliwinska",0.5,0,"Sara Evans, Jerry Springer","Tony Dovolani, Kym Johnson",0.5,0
+3,7,Jerry Springer,1,Jerry Springer,Kym Johnson,1.0,1,Jerry Springer,Kym Johnson,1.0,1
+3,8,Monique Coleman,1,Monique Coleman,Louis van Amstel,1.0,1,Monique Coleman,Louis van Amstel,1.0,1
+4,2,Paulina Porizkova,1,Clyde Drexler,Elena Grinenko,0.0,0,Paulina Porizkova,Alec Mazo,1.0,1
+4,3,Shandi Finnessey,1,Clyde Drexler,Elena Grinenko,0.0,0,Shandi Finnessey,Brian Fortuna,1.0,1
+4,4,Leeza Gibbons,1,Clyde Drexler,Elena Grinenko,0.0,0,Leeza Gibbons,Tony Dovolani,1.0,1
+4,5,Clyde Drexler,1,Clyde Drexler,Elena Grinenko,1.0,1,Clyde Drexler,Elena Grinenko,1.0,1
+4,6,Heather Mills,1,John Ratzenberger,Edyta Sliwinska,0.0,0,John Ratzenberger,Edyta Sliwinska,0.0,0
+4,7,John Ratzenberger,1,Billy Ray Cyrus,Karina Smirnoff,0.0,0,John Ratzenberger,Edyta Sliwinska,1.0,1
+4,8,Billy Ray Cyrus,1,Billy Ray Cyrus,Karina Smirnoff,1.0,1,Billy Ray Cyrus,Karina Smirnoff,1.0,1
+4,9,Ian Ziering,1,Ian Ziering,Cheryl Burke,1.0,1,Ian Ziering,Cheryl Burke,1.0,1
+5,1,Josie Maran,1,Josie Maran,Alec Mazo,1.0,1,Josie Maran,Alec Mazo,1.0,1
+5,2,Albert Reed,1,Wayne Newton,Cheryl Burke,0.0,0,Wayne Newton,Cheryl Burke,0.0,0
+5,3,Wayne Newton,1,Wayne Newton,Cheryl Burke,1.0,1,Wayne Newton,Cheryl Burke,1.0,1
+5,4,Floyd Mayweather Jr. ,1,Mark Cuban,Kym Johnson,0.0,0,Floyd Mayweather Jr. ,Karina Smirnoff,1.0,1
+5,5,Mark Cuban,1,Marie Osmond,Jonathan Roberts,0.0,0,Mark Cuban,Kym Johnson,1.0,1
+5,6,Sabrina Bryan,1,Jane Seymour,Tony Dovolani,0.0,0,Jane Seymour,Tony Dovolani,0.0,0
+5,7,Jane Seymour,1,Jane Seymour,Tony Dovolani,1.0,1,Jane Seymour,Tony Dovolani,1.0,1
+5,8,Cameron Mathison,1,Marie Osmond,Jonathan Roberts,0.0,0,Cameron Mathison,Edyta Sliwinska,1.0,1
+5,9,Jennie Garth,1,Marie Osmond,Jonathan Roberts,0.0,0,Jennie Garth,Derek Hough,1.0,1
+6,2,"Monica Seles, Penn Jillette",2,"Steve Guttenberg, Monica Seles","Anna Trebunskaya, Jonathan Roberts",0.5,0,"Monica Seles, Penn Jillette","Jonathan Roberts, Kym Johnson",1.0,1
+6,3,Steve Guttenberg,1,Marissa Jaret Winokur,Tony Dovolani,0.0,0,Steve Guttenberg,Anna Trebunskaya,1.0,1
+6,4,Adam Carolla,1,Priscilla Presley,Louis van Amstel,0.0,0,Adam Carolla,Julianne Hough,1.0,1
+6,5,Priscilla Presley,1,Marlee Matlin,Fabian Sanchez,0.0,0,Priscilla Presley,Louis van Amstel,1.0,1
+6,6,Marlee Matlin,1,Marlee Matlin,Fabian Sanchez,1.0,1,Marlee Matlin,Fabian Sanchez,1.0,1
+6,7,Shannon Elizabeth,1,Cristian de la Fuente,Cheryl Burke,0.0,0,Shannon Elizabeth,Derek Hough,1.0,1
+6,8,Mario,1,Marissa Jaret Winokur,Tony Dovolani,0.0,0,Mario,Karina Smirnoff,1.0,1
+6,9,Marissa Jaret Winokur,1,Marissa Jaret Winokur,Tony Dovolani,1.0,1,Marissa Jaret Winokur,Tony Dovolani,1.0,1
+7,1,"Jeffrey Ross, Ted McGinley",2,"Cloris Leachman, Jeffrey Ross","Corky Ballas, Edyta Sliwinska",0.5,0,"Jeffrey Ross, Ted McGinley","Edyta Sliwinska, Inna Brayer",1.0,1
+7,2,"Kim Kardashian, Misty May-Treanor",2,"Cloris Leachman, Rocco DiSpirito","Corky Ballas, Karina Smirnoff",0.0,0,"Kim Kardashian, Cloris Leachman","Mark Ballas, Corky Ballas",0.5,0
+7,4,Rocco DiSpirito,1,Rocco DiSpirito,Karina Smirnoff,1.0,1,Rocco DiSpirito,Karina Smirnoff,1.0,1
+7,5,Toni Braxton,1,Lance Bass,Lacey Schwimmer,0.0,0,Toni Braxton,Alec Mazo,1.0,1
+7,6,Cloris Leachman,1,Cloris Leachman,Corky Ballas,1.0,1,Cloris Leachman,Corky Ballas,1.0,1
+7,7,Susan Lucci,1,Warren Sapp,Kym Johnson,0.0,0,Susan Lucci,Tony Dovolani,1.0,1
+7,8,Maurice Greene,1,Maurice Greene,Cheryl Burke,1.0,1,Maurice Greene,Cheryl Burke,1.0,1
+7,9,Cody Linley,1,Cody Linley,Julianne Hough,1.0,1,Cody Linley,Julianne Hough,1.0,1
+8,2,Belinda Carlisle,1,Steve-O,Lacey Schwimmer,0.0,0,Belinda Carlisle,Jonathan Roberts,1.0,1
+8,3,Denise Richards,1,Steve Wozniak,Karina Smirnoff,0.0,0,Denise Richards,Maksim Chmerkoskiy,1.0,1
+8,4,"Steve Wozniak, Holly Madison",2,"Steve Wozniak, Steve-O","Karina Smirnoff, Lacey Schwimmer",0.5,0,"Steve Wozniak, Holly Madison","Karina Smirnoff, Dmitry Chaplin",1.0,1
+8,5,David Alan Grier,1,Lawrence Taylor,Edyta Sliwinska,0.0,0,David Alan Grier,Kym Johnson,1.0,1
+8,6,Steve-O,1,Steve-O,Lacey Schwimmer,1.0,1,Steve-O,Lacey Schwimmer,1.0,1
+8,7,Lawrence Taylor,1,Lawrence Taylor,Edyta Sliwinska,1.0,1,Lawrence Taylor,Edyta Sliwinska,1.0,1
+8,8,Chuck Wicks,1,Melissa Rycroft,Tony Dovolani,0.0,0,Chuck Wicks,Julianne Hough,1.0,1
+8,9,Lil' Kim,1,Ty Murray,Chelsie Hightower,0.0,0,Lil' Kim,Derek Hough,1.0,1
+8,10,Ty Murray,1,Ty Murray,Chelsie Hightower,1.0,1,Ty Murray,Chelsie Hightower,1.0,1
+9,1,"Macy Gray, Ashley Hamiliton",2,"Ashley Hamiliton, Tom DeLay","Edyta Sliwinska, Cheryl Burke",0.5,0,"Macy Gray, Ashley Hamiliton","Jonathan Roberts, Edyta Sliwinska",1.0,1
+9,2,Kathy Ireland,1,Tom DeLay,Cheryl Burke,0.0,0,Kathy Ireland,Tony Dovolani,1.0,1
+9,3,"Debi Mazar, Tom DeLay",2,"Tom DeLay, Michael Irvin","Cheryl Burke, Anna Demidova",0.5,0,"Tom DeLay, Michael Irvin","Cheryl Burke, Anna Demidova",0.5,0
+9,4,Chuck Liddell,1,Michael Irvin,Anna Demidova,0.0,0,Chuck Liddell,Anna Trebunskaya,1.0,1
+9,5,Natalie Coughlin,1,Michael Irvin,Anna Demidova,0.0,0,Natalie Coughlin,Alec Mazo,1.0,1
+9,6,"Melissa Joan Hart, Louie Vito",2,"Michael Irvin, Melissa Joan Hart","Anna Demidova, Mark Ballas",0.5,0,"Louie Vito, Melissa Joan Hart","Chelsie Hightower, Mark Ballas",1.0,1
+9,7,"Michael Irvin, Mark Dacascos",2,"Mark Dacascos, Michael Irvin","Lacey Schwimmer, Anna Demidova",1.0,1,"Mark Dacascos, Michael Irvin","Lacey Schwimmer, Anna Demidova",1.0,1
+9,8,Aaron Carter,1,Aaron Carter,Karina Smirnoff,1.0,1,Aaron Carter,Karina Smirnoff,1.0,1
+9,9,Joanna Krupa,1,Donny Osmond,Kym Johnson,0.0,0,Joanna Krupa,Derek Hough,1.0,1
+10,2,Shannen Doherty,1,Kate Gosselin,Tony Dovolani,0.0,0,Shannen Doherty,Mark Ballas,1.0,1
+10,3,Buzz Aldrin,1,Buzz Aldrin,Ashly DelGrosso,1.0,1,Buzz Aldrin,Ashly DelGrosso,1.0,1
+10,4,Aiden Turner,1,Kate Gosselin,Tony Dovolani,0.0,0,Aiden Turner,Edyta Sliwinska,1.0,1
+10,5,Kate Gosselin,1,Kate Gosselin,Tony Dovolani,1.0,1,Kate Gosselin,Tony Dovolani,1.0,1
+10,6,Jake Pavelka,1,Jake Pavelka,Chelsie Hightower,1.0,1,Jake Pavelka,Chelsie Hightower,1.0,1
+10,7,Pamela Anderson,1,Niecy Nash,Louis van Amstel,0.0,0,Pamela Anderson,Damian Whitewood,1.0,1
+10,8,Niecy Nash,1,Niecy Nash,Louis van Amstel,1.0,1,Niecy Nash,Louis van Amstel,1.0,1
+10,9,Chad Ochocinco,1,Chad Ochocinco,Cheryl Burke,1.0,1,Chad Ochocinco,Cheryl Burke,1.0,1
+11,1,David Hasselhoff,1,David Hasselhoff,Kym Johnson,1.0,1,David Hasselhoff,Kym Johnson,1.0,1
+11,2,Michael Bolton,1,Michael Bolton,Chelsie Hightower,1.0,1,Michael Bolton,Chelsie Hightower,1.0,1
+11,3,Margaret Cho,1,Bristol Palin,Mark Ballas,0.0,0,Margaret Cho,Louis van Amstel,1.0,1
+11,4,The Situation,1,The Situation,Karina Smirnoff,1.0,1,The Situation,Karina Smirnoff,1.0,1
+11,5,Florence Henderson,1,Kyle Massey,Lacey Schwimmer,0.0,0,Florence Henderson,Corky Ballas,1.0,1
+11,6,Audrina Patridge,1,Kurt Warner,Anna Trebunskaya,0.0,0,Audrina Patridge,Tony Dovolani,1.0,1
+11,7,Rick Fox,1,Bristol Palin,Mark Ballas,0.0,0,Rick Fox,Cheryl Burke,1.0,1
+11,8,Kurt Warner,1,Bristol Palin,Mark Ballas,0.0,0,Kurt Warner,Anna Trebunskaya,1.0,1
+11,9,Brandy,1,Bristol Palin,Mark Ballas,0.0,0,Brandy,Maksim Chmerkoskiy,1.0,1
+12,2,Mike Catherwood,1,Mike Catherwood,Lacey Schwimmer,1.0,1,Mike Catherwood,Lacey Schwimmer,1.0,1
+12,3,Wendy Williams,1,Wendy Williams,Tony Dovolani,1.0,1,Wendy Williams,Tony Dovolani,1.0,1
+12,4,Sugar Ray Leonard,1,Kendra Wilkinson,Louis van Amstel,0.0,0,Sugar Ray Leonard,Anna Trebunskaya,1.0,1
+12,5,Petra Nemcova,1,Ralph Macchio,Karina Smirnoff,0.0,0,Petra Nemcova,Dmitry Chaplin,1.0,1
+12,6,Chris Jericho,1,Chris Jericho,Cheryl Burke,1.0,1,Chris Jericho,Cheryl Burke,1.0,1
+12,7,Kendra Wilkinson,1,Romeo,Chelsie Hightower,0.0,0,Kendra Wilkinson,Louis van Amstel,1.0,1
+12,8,Romeo,1,Ralph Macchio,Karina Smirnoff,0.0,0,Romeo,Chelsie Hightower,1.0,1
+12,9,Ralph Macchio,1,Ralph Macchio,Karina Smirnoff,1.0,1,Ralph Macchio,Karina Smirnoff,1.0,1
+13,1,Metta World Peace (Ron),1,Metta World Peace (Ron),Peta Murgatroyd,1.0,1,Metta World Peace (Ron),Peta Murgatroyd,1.0,1
+13,2,Elisabetta Canalis,1,Chaz Bono,Lacey Schwimmer,0.0,0,Elisabetta Canalis,Valentin Chmerkovskiy,1.0,1
+13,3,Kristin Cavallari,1,Chaz Bono,Lacey Schwimmer,0.0,0,Kristin Cavallari,Mark Ballas,1.0,1
+13,4,Chynna Phillips,1,Carson Kressley,Anna Trebunskaya,0.0,0,Chynna Phillips,Tony Dovolani,1.0,1
+13,5,Carson Kressley,1,Carson Kressley,Anna Trebunskaya,1.0,1,Carson Kressley,Anna Trebunskaya,1.0,1
+13,6,Chaz Bono,1,Chaz Bono,Lacey Schwimmer,1.0,1,Chaz Bono,Lacey Schwimmer,1.0,1
+13,7,David Arquette,1,Nancy Grace,Tristan MacManus,0.0,0,David Arquette,Kym Johnson,1.0,1
+13,8,Nancy Grace,1,Nancy Grace,Tristan MacManus,1.0,1,Nancy Grace,Tristan MacManus,1.0,1
+13,9,Hope Solo,1,Hope Solo,Maksim Chmerkoskiy,1.0,1,Hope Solo,Maksim Chmerkoskiy,1.0,1
+14,2,Martina Navratilova,1,Martina Navratilova,Tony Dovolani,1.0,1,Martina Navratilova,Tony Dovolani,1.0,1
+14,3,Jack Wagner,1,Gladys Knight,Tristan MacManus,0.0,0,Jack Wagner,Anna Trebunskaya,1.0,1
+14,4,Sherri Sheperd,1,Gladys Knight,Tristan MacManus,0.0,0,Sherri Sheperd,Valentin Chmerkovskiy,1.0,1
+14,5,Gavin DeGraw,1,Gavin DeGraw,Karina Smirnoff,1.0,1,Gavin DeGraw,Karina Smirnoff,1.0,1
+14,6,Gladys Knight,1,Gladys Knight,Tristan MacManus,1.0,1,Gladys Knight,Tristan MacManus,1.0,1
+14,7,Jaleel White,1,Jaleel White,Kym Johnson,1.0,1,Jaleel White,Kym Johnson,1.0,1
+14,8,"Roshon Fegan, Melissa Gilbert",2,"Melissa Gilbert, Maria Menounos","Maksim Chmerkoskiy, Derek Hough",0.5,0,"Melissa Gilbert, Roshon Fegan","Maksim Chmerkoskiy, Chelsie Hightower",1.0,1
+14,9,Maria Menounos,1,Katherine Jenkins,Mark Ballas,0.0,0,Maria Menounos,Derek Hough,1.0,1
+15,1,Pamela Anderson,1,Pamela Anderson,Tristan MacManus,1.0,1,Pamela Anderson,Tristan MacManus,1.0,1
+15,2,Joey Fatone,1,Bristol Palin,Mark Ballas,0.0,0,Joey Fatone,Kym Johnson,1.0,1
+15,3,"Drew Lachey, Helio Castroneves",2,"Bristol Palin, Drew Lachey","Mark Ballas, Anna Trebunskaya",0.5,0,"Drew Lachey, Helio Castroneves","Anna Trebunskaya, Chelsie Hightower",1.0,1
+15,4,Bristol Palin,1,Kirstie Alley,Maksim Chmerkoskiy,0.0,0,Bristol Palin,Mark Ballas,1.0,1
+15,6,Sabrina Bryan,1,Emmitt Smith,Cheryl Burke,0.0,0,Sabrina Bryan,Louis van Amstel,1.0,1
+15,8,"Kirstie Alley, Gilles Marini",2,"Kirstie Alley, Shawn Johnson","Maksim Chmerkoskiy, Derek Hough",0.5,0,"Kirstie Alley, Gilles Marini","Maksim Chmerkoskiy, Peta Murgatroyd",1.0,1
+15,9,"Emmitt Smith, Apolo Anton Ohno",2,"Emmitt Smith, Melissa Rycroft","Cheryl Burke, Tony Dovolani",0.5,0,"Emmitt Smith, Apolo Anton Ohno","Cheryl Burke, Karina Smirnoff",1.0,1
+16,2,Dorothy Hamill,1,Dorothy Hamill,Tristan MacManus,1.0,1,Dorothy Hamill,Tristan MacManus,1.0,1
+16,3,Wynonna Judd,1,Wynonna Judd,Tony Dovolani,1.0,1,Wynonna Judd,Tony Dovolani,1.0,1
+16,4,Lisa Vanderpump,1,Lisa Vanderpump,Gleb Savchenko,1.0,1,Lisa Vanderpump,Gleb Savchenko,1.0,1
+16,5,D. L. Hughley,1,D. L. Hughley,Cheryl Burke,1.0,1,D. L. Hughley,Cheryl Burke,1.0,1
+16,6,Victor Ortiz,1,Victor Ortiz,Lindsay Arnold,1.0,1,Victor Ortiz,Lindsay Arnold,1.0,1
+16,7,Andy Dick,1,Andy Dick,Sharna Burgess,1.0,1,Andy Dick,Sharna Burgess,1.0,1
+16,8,Sean Lowe,1,Sean Lowe,Peta Murgatroyd,1.0,1,Sean Lowe,Peta Murgatroyd,1.0,1
+16,9,Ingo Rademacher,1,Ingo Rademacher,Kym Johnson,1.0,1,Ingo Rademacher,Kym Johnson,1.0,1
+16,10,Alexandra Raisman,1,Jacoby Jones,Karina Smirnoff,0.0,0,Alexandra Raisman,Mark Ballas,1.0,1
+17,2,Keyshawn Johnson,1,Bill Nye,Tyne Stecklein,0.0,0,Keyshawn Johnson,Sharna Burgess,1.0,1
+17,3,Bill Nye,1,Valerie Harper,Tristan MacManus,0.0,0,Bill Nye,Tyne Stecklein,1.0,1
+17,4,Valerie Harper,1,Valerie Harper,Tristan MacManus,1.0,1,Valerie Harper,Tristan MacManus,1.0,1
+17,5,Christina Milian,1,Leah Remini,Tony Dovolani,0.0,0,Christina Milian,Mark Ballas,1.0,1
+17,7,"Nicole ""Snooki"" Polizzi",1,Leah Remini,Tony Dovolani,0.0,0,"Nicole ""Snooki"" Polizzi",Sasha Farber,1.0,1
+17,8,Brant Daugherty,1,Elizabeth Berkley Lauren,Valentin Chmerkovskiy,0.0,0,Brant Daugherty,Peta Murgatroyd,1.0,1
+17,9,Elizabeth Berkley Lauren,1,Amber Riley,Derek Hough,0.0,0,Bill Engvall,Emma Slater,0.0,0
+17,10,Leah Remini,1,Bill Engvall,Emma Slater,0.0,0,Leah Remini,Tony Dovolani,1.0,1
+17,11,Bill Engvall,1,Bill Engvall,Emma Slater,1.0,1,Bill Engvall,Emma Slater,1.0,1
+18,2,"Billy Dee Williams, Sean Avery",2,"Billy Dee Williams, Drew Carey","Emma Slater, Cheryl Burke",0.5,0,"Billy Dee Williams, Sean Avery","Emma Slater, Karina Smirnoff",1.0,1
+18,5,Cody Simpson,1,Drew Carey,Cheryl Burke,0.0,0,Cody Simpson,Witney Carson,1.0,1
+18,6,Drew Carey,1,Drew Carey,Cheryl Burke,1.0,1,Drew Carey,Cheryl Burke,1.0,1
+18,7,NeNe Leakes,1,NeNe Leakes,Tony Dovolani,1.0,1,NeNe Leakes,Tony Dovolani,1.0,1
+18,8,Danica McKellar,1,Meryl Davis,Maksim Chmerkoskiy,0.0,0,Danica McKellar,Valentin Chmerkovskiy,1.0,1
+18,9,Charlie White,1,Candace Cameron Bure,Mark Ballas,0.0,0,Charlie White,Sharna Burgess,1.0,1
+18,10,James Maslow,1,Candace Cameron Bure,Mark Ballas,0.0,0,James Maslow,Peta Murgatroyd,1.0,1
+19,1,Lolo Jones,1,Betsey Johnson,Tony Dovolani,0.0,0,Lolo Jones,Keo Motsepe,1.0,1
+19,2,Tavis Smiley,1,Michael Waltrip,Emma Slater,0.0,0,Tavis Smiley,Sharna Burgess,1.0,1
+19,3,Randy Couture,1,Randy Couture,Karina Smirnoff,1.0,1,Randy Couture,Karina Smirnoff,1.0,1
+19,4,Betsey Johnson,1,Michael Waltrip,Emma Slater,0.0,0,Betsey Johnson,Tony Dovolani,1.0,1
+19,6,Jonathan Bennett,1,Antonio Sabato Jr.,Cheryl Burke,0.0,0,Jonathan Bennett,Allison Holker,1.0,1
+19,7,Antonio Sabato Jr.,1,Antonio Sabato Jr.,Cheryl Burke,1.0,1,Antonio Sabato Jr.,Cheryl Burke,1.0,1
+19,8,Michael Waltrip,1,Michael Waltrip,Emma Slater,1.0,1,Michael Waltrip,Emma Slater,1.0,1
+19,9,Lea Thompson,1,Tommy Chong,Peta Murgatroyd,0.0,0,Lea Thompson,Artem Chigvintsev,1.0,1
+19,10,Tommy Chong,1,Tommy Chong,Peta Murgatroyd,1.0,1,Tommy Chong,Peta Murgatroyd,1.0,1
+19,11,Bethany Mota,1,Bethany Mota,Derek Hough,1.0,1,Bethany Mota,Derek Hough,1.0,1
+20,2,Redfoo,1,Chris Soules,Witney Carson,0.0,0,Redfoo,Emma Slater,1.0,1
+20,3,Charlotte McKinney,1,Patti LaBelle,Artem Chigvintsev,0.0,0,Charlotte McKinney,Keo Motsepe,1.0,1
+20,4,Michael Sam,1,Suzanne Somers,Tony Dovolani,0.0,0,Michael Sam,Peta Murgatroyd,1.0,1
+20,5,Suzanne Somers,1,Patti LaBelle,Artem Chigvintsev,0.0,0,Suzanne Somers,Tony Dovolani,1.0,1
+20,6,Patti LaBelle,1,Robert Herjavec,Kym Johnson,0.0,0,Patti LaBelle,Artem Chigvintsev,1.0,1
+20,7,Willow Shields,1,Chris Soules,Witney Carson,0.0,0,Willow Shields,Mark Ballas,1.0,1
+20,8,"Chris Soules, Robert Herjavec",2,"Noah Galloway, Robert Herjavec","Sharna Burgess, Kym Johnson",0.5,0,"Robert Herjavec, Chris Soules","Kym Johnson, Witney Carson",1.0,1
+20,9,Nastia Liukin,1,Rumer Willis,Valentin Chmerkovskiy,0.0,0,Nastia Liukin,Derek Hough,1.0,1
+21,2,"Kim Zolciak-Biermann, Victor Espinoza, Chaka Khan",3,"Chaka Khan, Gary Busey, Victor Espinoza","Keo Motsepe, Anna Trebunskaya, Karina Smirnoff",0.6666666666666666,0,"Chaka Khan, Kim Zolciak-Biermann, Victor Espinoza","Keo Motsepe, Tony Dovolani, Karina Smirnoff",1.0,1
+21,4,Gary Busey,1,Gary Busey,Anna Trebunskaya,1.0,1,Gary Busey,Anna Trebunskaya,1.0,1
+21,6,Paula Deen,1,Paula Deen,Louis van Amstel,1.0,1,Paula Deen,Louis van Amstel,1.0,1
+21,7,Hayes Grier,1,Alek Skarlatos,Lindsay Arnold,0.0,0,Hayes Grier,Emma Slater,1.0,1
+21,8,Andy Grammer,1,Alek Skarlatos,Lindsay Arnold,0.0,0,Andy Grammer,Allison Holker,1.0,1
+21,9,"Alexa PenaVega, Tamar Braxton",2,"Tamar Braxton, Carlos PenaVega","Valentin Chmerkovskiy, Witney Carson",0.5,0,"Tamar Braxton, Alexa PenaVega","Valentin Chmerkovskiy, Mark Ballas",1.0,1
+21,11,Carlos PenaVega,1,Alek Skarlatos,Lindsay Arnold,0.0,0,Carlos PenaVega,Witney Carson,1.0,1
+22,2,Geraldo Rivera,1,Geraldo Rivera,Edyta Sliwinska,1.0,1,Geraldo Rivera,Edyta Sliwinska,1.0,1
+22,3,Mischa Barton,1,Mischa Barton,Artem Chigvintsev,1.0,1,Mischa Barton,Artem Chigvintsev,1.0,1
+22,4,Marla Maples,1,Doug Flutie,Karina Smirnoff,0.0,0,Marla Maples,Tony Dovolani,1.0,1
+22,6,Doug Flutie,1,Doug Flutie,Karina Smirnoff,1.0,1,Doug Flutie,Karina Smirnoff,1.0,1
+22,7,"Kim Fields, Von Miller",2,"Jodie Sweetin, Antonio Brown","Keo Motsepe, Sharna Burgess",0.0,0,"Kim Fields, Von Miller","Sasha Farber, Witney Carson",1.0,1
+22,8,Jodie Sweetin,1,Wanya Morris,Lindsay Arnold,0.0,0,Wanya Morris,Lindsay Arnold,0.0,0
+22,9,"Antonio Brown, Wanya Morris",2,"Antonio Brown, Nyle DiMarco","Sharna Burgess, Peta Murgatroyd",0.5,0,"Antonio Brown, Nyle DiMarco","Sharna Burgess, Peta Murgatroyd",0.5,0
+23,2,Jake T. Austin,1,Rick Perry,Emma Slater,0.0,0,Jake T. Austin,Jenna Johnson,1.0,1
+23,3,Rick Perry,1,Vanilla Ice,Witney Carson,0.0,0,Rick Perry,Emma Slater,1.0,1
+23,4,"Vanilla Ice, Babyface",2,"Babyface, Ryan Lochte","Allison Holker, Cheryl Burke",0.5,0,"Babyface, Vanilla Ice","Allison Holker, Witney Carson",1.0,1
+23,6,Amber Rose,1,Terra Jole,Sasha Farber,0.0,0,Amber Rose,Maksim Chmerkoskiy,1.0,1
+23,7,Maureen McCormick,1,Marilu Henner,Derek Hough,0.0,0,Maureen McCormick,Artem Chigvintsev,1.0,1
+23,8,Ryan Lochte,1,Marilu Henner,Derek Hough,0.0,0,Ryan Lochte,Cheryl Burke,1.0,1
+23,9,Marilu Henner,1,James Hinchcliffe,Sharna Burgess,0.0,0,Marilu Henner,Derek Hough,1.0,1
+23,10,Terra Jole,1,Jana Kramer,Gleb Savchenko,0.0,0,Terra Jole,Sasha Farber,1.0,1
+23,11,Jana Kramer,1,Jana Kramer,Gleb Savchenko,1.0,1,Jana Kramer,Gleb Savchenko,1.0,1
+24,2,Chris Kattan,1,Mr. T,Kym Herjavec,0.0,0,Chris Kattan,Witney Carson,1.0,1
+24,3,Charo,1,Charo,Keo Motsepe,1.0,1,Charo,Keo Motsepe,1.0,1
+24,4,Mr. T,1,Mr. T,Kym Herjavec,1.0,1,Mr. T,Kym Herjavec,1.0,1
+24,5,Erika Jayne,1,Bonner Bolton,Sharna Burgess,0.0,0,Erika Jayne,Gleb Savchenko,1.0,1
+24,6,Heather Morris,1,Nick Viall,Peta Murgatroyd,0.0,0,Nick Viall,Peta Murgatroyd,0.0,0
+24,7,"Nancy Kerrigan, Nick Viall",2,"Bonner Bolton, David Ross","Sharna Burgess, Lindsay Arnold",0.0,0,"Nick Viall, Nancy Kerrigan","Peta Murgatroyd, Artem Chigvintsev",1.0,1
+24,8,Bonner Bolton,1,Bonner Bolton,Sharna Burgess,1.0,1,Bonner Bolton,Sharna Burgess,1.0,1
+24,9,Simone Biles,1,Normani,Valentin Chmerkovskiy,0.0,0,Simone Biles,Sasha Farber,1.0,1
+25,2,"Barbara Corcoran, Debbie Gibson",2,"Barbara Corcoran, Derek Fisher","Keo Motsepe, Sharna Burgess",0.5,0,"Barbara Corcoran, Debbie Gibson","Keo Motsepe, Alan Bersten",1.0,1
+25,4,Derek Fisher,1,Nick Lachey,Peta Murgatroyd,0.0,0,Derek Fisher,Sharna Burgess,1.0,1
+25,5,Sasha Pieterse,1,Nick Lachey,Peta Murgatroyd,0.0,0,Sasha Pieterse,Gleb Savchenko,1.0,1
+25,6,Nick Lachey,1,Nick Lachey,Peta Murgatroyd,1.0,1,Nick Lachey,Peta Murgatroyd,1.0,1
+25,7,"Nikki Bella, Vanessa Lachey",2,"Terrell Owens, Nikki Bella","Cheryl Burke, Artem Chigvintsev",0.5,0,"Nikki Bella, Vanessa Lachey","Artem Chigvintsev, Maksim Chmerkoskiy",1.0,1
+25,8,Terrell Owens,1,Drew Scott,Emma Slater,0.0,0,Terrell Owens,Cheryl Burke,1.0,1
+25,9,Victoria Arlen,1,Drew Scott,Emma Slater,0.0,0,Victoria Arlen,Valentin Chmerkovskiy,1.0,1
+25,10,Drew Scott,1,Drew Scott,Emma Slater,1.0,1,Drew Scott,Emma Slater,1.0,1
+26,1,"Johnny Damon, Jamie Anderson",2,"Johnny Damon, Kareem Abdul-Jabbar","Emma Slater, Lindsay Arnold",0.5,0,"Johnny Damon, Jamie Anderson","Emma Slater, Artem Chigvintsev",1.0,1
+26,2,"Arike Ogunbowale, Kareem Abdul-Jabbar",2,"Jennie Finch Daigle, Josh Norman","Keo Motsepe, Sharna Burgess",0.0,0,"Kareem Abdul-Jabbar, Arike Ogunbowale","Lindsay Arnold, Gleb Savchenko",1.0,1
+26,3,"Jennie Finch Daigle, Mirai Nagasu, Chris Mazdzer",3,"Jennie Finch Daigle, Chris Mazdzer, Mirai Nagasu","Keo Motsepe, Witney Carson, Alan Bersten",1.0,1,"Jennie Finch Daigle, Chris Mazdzer, Mirai Nagasu","Keo Motsepe, Witney Carson, Alan Bersten",1.0,1
+27,1,Nikki Glaser,1,Joe Amabile,Jenna Johnson,0.0,0,Nikki Glaser,Gleb Savchenko,1.0,1
+27,2,Danelle Umstead,1,Joe Amabile,Jenna Johnson,0.0,0,Danelle Umstead,Artem Chigvintsev,1.0,1
+27,3,Nancy McKeon,1,Joe Amabile,Jenna Johnson,0.0,0,Nancy McKeon,Valentin Chmerkovskiy,1.0,1
+27,4,Tinashe,1,Joe Amabile,Jenna Johnson,0.0,0,John Schneider,Emma Slater,0.0,0
+27,6,Mary Lou Retton,1,John Schneider,Emma Slater,0.0,0,Mary Lou Retton,Sasha Farber,1.0,1
+27,7,"DeMarcus Ware, John Schneider",2,"Joe Amabile, John Schneider","Jenna Johnson, Emma Slater",0.5,0,"John Schneider, DeMarcus Ware","Emma Slater, Lindsay Arnold",1.0,1
+27,8,"Joe Amabile, Juan Pablo Di Pace",2,"Bobby Bones, Joe Amabile","Sharna Burgess, Jenna Johnson",0.5,0,"Joe Amabile, Bobby Bones","Jenna Johnson, Sharna Burgess",0.5,0
+28,2,"Mary Wilson, Ray Lewis",2,"Mary Wilson, Lamar Odom","Brandon Armstrong, Peta Murgatroyd",0.5,0,"Lamar Odom, Ray Lewis","Peta Murgatroyd, Cheryl Burke",0.5,0
+28,4,Lamar Odom,1,Lamar Odom,Peta Murgatroyd,1.0,1,Lamar Odom,Peta Murgatroyd,1.0,1
+28,6,Sailor Brinkley-Cook,1,Hannah Brown,Alan Bersten,0.0,0,Sean Spicer,Lindsay Arnold,0.0,0
+28,7,Karamo Brown,1,Karamo Brown,Jenna Johnson,1.0,1,Sean Spicer,Lindsay Arnold,0.0,0
+28,8,Kate Flannery,1,Kate Flannery,Pasha Pashkov,1.0,1,Sean Spicer,Lindsay Arnold,0.0,0
+28,9,Sean Spicer,1,Sean Spicer,Lindsay Arnold,1.0,1,Sean Spicer,Lindsay Arnold,1.0,1
+28,10,James Van Der Beek,1,James Van Der Beek,Emma Slater,1.0,1,Lauren Alaina,Gleb Savchenko,0.0,0
+29,2,Charles Oakley,1,Charles Oakley,Emma Slater,1.0,1,Charles Oakley,Emma Slater,1.0,1
+29,3,Carole Baskin,1,Carole Baskin,Pasha Pashkov,1.0,1,Anne Heche,Keo Motsepe,0.0,0
+29,4,Anne Heche,1,Anne Heche,Keo Motsepe,1.0,1,Jesse Metcalfe,Sharna Burgess,0.0,0
+29,5,Jesse Metcalfe,1,Jesse Metcalfe,Sharna Burgess,1.0,1,Jesse Metcalfe,Sharna Burgess,1.0,1
+29,6,Veron Davis,1,Veron Davis,Peta Murgatroyd,1.0,1,Chrishell Stause,Gleb Savchenko,0.0,0
+29,7,"Monica Aldama, Jeannie Mai",2,"Monica Aldama, Jeannie Mai","Valentin Chmerkovskiy, Brandon Armstrong",1.0,1,"Jeannie Mai, Monica Aldama","Brandon Armstrong, Valentin Chmerkovskiy",1.0,1
+29,8,Chrishell Stause,1,Chrishell Stause,Gleb Savchenko,1.0,1,Skai Jackson,Alan Bersten,0.0,0
+29,9,AJ McLean,1,AJ McLean,Cheryl Burke,1.0,1,Nelly,Daniella Karagach,0.0,0
+29,10,"Skai Jackson, Johnny Weir",2,"Johnny Weir, Nelly","Britt Stewart, Daniella Karagach",0.5,0,"Nelly, Johnny Weir","Daniella Karagach, Britt Stewart",0.5,0
+30,2,Martin Kove,1,Martin Kove,Britt Stewart,1.0,1,Martin Kove,Britt Stewart,1.0,1
+30,3,Christine Chiu,1,Cody Rigsby,Cheryl Burke,0.0,0,Christine Chiu,Pasha Pashkov,1.0,1
+30,4,"Matt James, Brian Austin Green",2,"Brian Austin Green, Matt James","Sharna Burgess, Lindsay Arnold",1.0,1,"Brian Austin Green, Kenya Moore","Sharna Burgess, Brandon Armstrong",0.5,0
+30,5,Melanie C,1,Iman Shumpert,Daniella Karagach,0.0,0,Iman Shumpert,Daniella Karagach,0.0,0
+30,6,Kenya Moore,1,Kenya Moore,Brandon Armstrong,1.0,1,Kenya Moore,Brandon Armstrong,1.0,1
+30,7,"Mike ""The Miz"" Mizanin",1,"Mike ""The Miz"" Mizanin",Witney Carson,1.0,1,"Mike ""The Miz"" Mizanin",Witney Carson,1.0,1
+30,8,"Olivia Jade, Jimmie Allen",2,"Jimmie Allen, Olivia Jade","Emma Slater, Valentin Chmerkovskiy",1.0,1,"Jimmie Allen, Iman Shumpert","Emma Slater, Daniella Karagach",0.5,0
+30,9,"Melora Hardin, Suni Lee",2,"Melora Hardin, Cody Rigsby","Artem Chigvintsev, Cheryl Burke",0.5,0,"Melora Hardin, Cody Rigsby","Artem Chigvintsev, Cheryl Burke",0.5,0
+31,1,Jason Lewis,1,Jason Lewis,Peta Murgatroyd,1.0,1,Vinny Guadagnino,Koko Iwasaki,0.0,0
+31,2,Teresa Giudice,1,Teresa Giudice,Pasha Pashkov,1.0,1,Cheryl Ladd,Louis van Amstel,0.0,0
+31,3,Cheryl Ladd,1,Cheryl Ladd,Louis van Amstel,1.0,1,Vinny Guadagnino,Koko Iwasaki,0.0,0
+31,4,Sam Champion,1,Sam Champion,Cheryl Burke,1.0,1,Trevor Donovan,Emma Slater,0.0,0
+31,5,"Joseph Baena, Selma Blair",2,"Joseph Baena, Vinny Guadagnino","Daniella Karagach, Koko Iwasaki",0.5,0,"Shangela, Vinny Guadagnino","Gleb Savchenko, Koko Iwasaki",0.0,0
+31,6,Jessie James Decker,1,Jessie James Decker,Alan Bersten,1.0,1,Vinny Guadagnino,Koko Iwasaki,0.0,0
+31,7,Jordin Sparks,1,Jordin Sparks,Brandon Armstrong,1.0,1,Heidi D'Amelio,Artem Chigvintsev,0.0,0
+31,8,"Vinny Guadagnino, Heidi D'Amelio",2,"Vinny Guadagnino, Heidi D'Amelio","Koko Iwasaki, Artem Chigvintsev",1.0,1,"Vinny Guadagnino, Heidi D'Amelio","Koko Iwasaki, Artem Chigvintsev",1.0,1
+31,9,"Trevor Donovan, Daniel Durant",2,"Trevor Donovan, Daniel Durant","Emma Slater, Britt Stewart",1.0,1,"Trevor Donovan, Daniel Durant","Emma Slater, Britt Stewart",1.0,1
+32,1,Matt Walsh,1,Matt Walsh,Koko Iwasaki,1.0,1,Matt Walsh,Koko Iwasaki,1.0,1
+32,2,Jamie Lynn Spears,1,Mauricio Umansky,Emma Slater,0.0,0,Mauricio Umansky,Emma Slater,0.0,0
+32,3,Tyson Beckford,1,Tyson Beckford,Jenna Johnson,1.0,1,Tyson Beckford,Jenna Johnson,1.0,1
+32,4,Adrian Peterson,1,Barry Williams,Peta Murgatroyd,0.0,0,Alyson Hannigan,Sasha Farber,0.0,0
+32,5,Mira Sorvino,1,Mira Sorvino,Gleb Savchenko,1.0,1,Harry Jowsey,Rylee Arnold,0.0,0
+32,6,Mauricio Umansky,1,Mauricio Umansky,Emma Slater,1.0,1,Barry Williams,Peta Murgatroyd,0.0,0
+32,7,Lele Pons,1,Barry Williams,Peta Murgatroyd,0.0,0,Harry Jowsey,Rylee Arnold,0.0,0
+32,8,Barry Williams,1,Harry Jowsey,Rylee Arnold,0.0,0,Barry Williams,Peta Murgatroyd,1.0,1
+32,9,Harry Jowsey,1,Harry Jowsey,Rylee Arnold,1.0,1,Harry Jowsey,Rylee Arnold,1.0,1
+33,2,"Tori Spelling, Anna Delvey",2,"Anna Delvey, Eric Roberts","Ezra Sosa, Britt Stewart",0.5,0,"Reginald VelJohnson, Anna Delvey","Emma Slater, Ezra Sosa",0.5,0
+33,3,"Eric Roberts, Reginald VelJohnson",2,"Reginald VelJohnson, Eric Roberts","Emma Slater, Britt Stewart",1.0,1,"Eric Roberts, Reginald VelJohnson","Britt Stewart, Emma Slater",1.0,1
+33,4,Brooks Nader,1,Dwight Howard ,Daniella Karagach,0.0,0,Dwight Howard ,Daniella Karagach,0.0,0
+33,5,Phaedra Parks,1,Phaedra Parks,Val Chmerkovskiy,1.0,1,Stephen Nedoroscik,Rylee Arnold,0.0,0
+33,6,Jenn Tran,1,Ilona Maher,Alan Bersten,0.0,0,Ilona Maher,Alan Bersten,0.0,0
+33,7,Dwight Howard ,1,Dwight Howard ,Daniella Karagach,1.0,1,Danny Amendola,Witney Carson,0.0,0
+34,2,"Baron Davis, Corey Feldman",2,"Corey Feldman, Baron Davis","Jenna Johnson, Britt Stewart",1.0,1,"Andy Richter, Corey Feldman","Emma Slater/Kaitlyn Bristowe (week 9), Jenna Johnson",0.5,0
+34,3,Lauren Jauregui,1,Lauren Jauregui,Brandon Armstrong,1.0,1,Lauren Jauregui,Brandon Armstrong,1.0,1
+34,4,Hilaria Baldwin,1,Andy Richter,Emma Slater/Kaitlyn Bristowe (week 9),0.0,0,Andy Richter,Emma Slater/Kaitlyn Bristowe (week 9),0.0,0
+34,6,Scott Hoying,1,Scott Hoying,Rylee Arnold,1.0,1,Andy Richter,Emma Slater/Kaitlyn Bristowe (week 9),0.0,0
+34,7,Jen Affleck,1,Jen Affleck,Jan Ravnik,1.0,1,Danielle Fishel,Pasha Pashkov,0.0,0
+34,8,Danielle Fishel,1,Danielle Fishel,Pasha Pashkov,1.0,1,Elaine Hendrix,Alan Bersten (Rashad Jennings week 9),0.0,0
+34,9,Andy Richter,1,Andy Richter,Emma Slater/Kaitlyn Bristowe (week 9),1.0,1,Elaine Hendrix,Alan Bersten (Rashad Jennings week 9),0.0,0
+34,10,Whitney Leavitt,1,Dylan Efron,Daniella Karagach (Rumer Willis week 9),0.0,0,Elaine Hendrix,Alan Bersten (Rashad Jennings week 9),0.0,0
