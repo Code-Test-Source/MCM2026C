@@ -5,12 +5,18 @@ import re
 import numpy as np
 import pandas as pd
 
-INPUT_PATH = (
+INPUT_RANK_PATH = (
     "../../../data/processed/2026_MCM_Problem_C_Data_popularity_features_with_attractiveness_xgboost.csv"
+)
+INPUT_PERCENT_PATH = (
+    "../../../data/processed/2026_MCM_Problem_C_Data_popularity_features_with_attractiveness_xgboost_percent.csv"
 )
 OUTPUT_PATH = (
     "../../../data/processed/2026_MCM_Problem_C_Data_fan_votes_with_certainty.csv"
 )
+
+RANK_BASED_SEASONS = {1, 2, 28, 29, 30, 31, 32, 33, 34}
+PERCENT_BASED_SEASONS = set(range(3, 28))
 
 ELIM_PATTERN = re.compile(r"(eliminated|withdrew)\s+week\s+(\d+)", re.IGNORECASE)
 
@@ -78,13 +84,19 @@ def _infer_missing_elimination_week(df: pd.DataFrame) -> pd.Series:
     return inferred
 
 
-def _fan_share_from_attractiveness(attractiveness: pd.Series) -> pd.Series:
-    values = attractiveness.astype(float)
-    min_v = float(values.min())
-    max_v = float(values.max())
+def _minmax(series: pd.Series) -> pd.Series:
+    min_v = float(series.min())
+    max_v = float(series.max())
     if max_v - min_v == 0:
-        return pd.Series(0.0, index=attractiveness.index)
-    return (values - min_v) / (max_v - min_v)
+        return pd.Series(0.0, index=series.index)
+    return (series - min_v) / (max_v - min_v)
+
+
+def _to_percent(series: pd.Series) -> pd.Series:
+    total = float(series.sum())
+    if total == 0:
+        return pd.Series(1.0 / len(series), index=series.index)
+    return series / total
 
 
 def _certainty_from_distribution(
@@ -114,7 +126,8 @@ def _certainty_from_distribution(
 
 
 def main() -> None:
-    df = pd.read_csv(INPUT_PATH, na_values=["N/A", "NA", ""])
+    rank_df = pd.read_csv(INPUT_RANK_PATH, na_values=["N/A", "NA", ""])
+    percent_df = pd.read_csv(INPUT_PERCENT_PATH, na_values=["N/A", "NA", ""])
 
     required_cols = [
         "season",
@@ -125,11 +138,17 @@ def main() -> None:
         "composite_attractiveness",
         "week_total_judge",
     ]
-    missing = [c for c in required_cols if c not in df.columns]
-    if missing:
-        raise ValueError(f"Missing required columns: {missing}")
+    missing_rank = [c for c in required_cols if c not in rank_df.columns]
+    if missing_rank:
+        raise ValueError(f"Missing required columns in rank input: {missing_rank}")
+    missing_percent = [c for c in required_cols if c not in percent_df.columns]
+    if missing_percent:
+        raise ValueError(f"Missing required columns in percent input: {missing_percent}")
 
-    df = df.copy()
+    rank_df = rank_df[rank_df["season"].isin(RANK_BASED_SEASONS)].copy()
+    percent_df = percent_df[percent_df["season"].isin(PERCENT_BASED_SEASONS)].copy()
+
+    df = pd.concat([rank_df, percent_df], ignore_index=True)
     df["elimination_week"] = _extract_elimination_week(df["results"])
     df["elimination_week"] = _infer_missing_elimination_week(df)
     df["is_eliminated_this_week"] = (
@@ -155,7 +174,7 @@ def main() -> None:
         attractiveness = active["composite_attractiveness"].astype(float)
         attractiveness = attractiveness.fillna(attractiveness.median())
 
-        fan_share = _fan_share_from_attractiveness(attractiveness)
+        fan_share = _minmax(attractiveness)
         certainty = _certainty_from_distribution(attractiveness, fan_share)
         fan_rank = fan_share.rank(method="min", ascending=False).astype(int)
 
