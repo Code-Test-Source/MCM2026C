@@ -3,7 +3,7 @@ season,week,predicted_eliminated_percent,predicted_partner_percent,actual_elimin
 3,2,Shanna Moakler,Jesse DeSoto,Shanna Moakler,1,1.0,1
 3,3,Harry Hamlin,Ashly DelGrosso,Harry Hamlin,1,1.0,1
 3,4,Vivica A. Fox,Nick Kosovich,Vivica A. Fox,1,1.0,1
-3,5,"Sara Evans, Jerry Springer","Tony Dovolani, Kym Johnson","Willa Ford, Sara Evans",2,0.5,0
+3,5,"Sara Evans, Jerry Springer","Tony Dovolani, Kym Johnson","Sara Evans, Willa Ford",2,0.5,0
 3,7,Jerry Springer,Kym Johnson,Jerry Springer,1,1.0,1
 3,8,Monique Coleman,Louis van Amstel,Monique Coleman,1,1.0,1
 4,2,Paulina Porizkova,Alec Mazo,Paulina Porizkova,1,1.0,1
@@ -23,7 +23,7 @@ season,week,predicted_eliminated_percent,predicted_partner_percent,actual_elimin
 5,7,Jane Seymour,Tony Dovolani,Jane Seymour,1,1.0,1
 5,8,Cameron Mathison,Edyta Sliwinska,Cameron Mathison,1,1.0,1
 5,9,Jennie Garth,Derek Hough,Jennie Garth,1,1.0,1
-6,2,"Monica Seles, Penn Jillette","Jonathan Roberts, Kym Johnson","Monica Seles, Penn Jillette",2,1.0,1
+6,2,"Monica Seles, Penn Jillette","Jonathan Roberts, Kym Johnson","Penn Jillette, Monica Seles",2,1.0,1
 6,3,Steve Guttenberg,Anna Trebunskaya,Steve Guttenberg,1,1.0,1
 6,4,Adam Carolla,Julianne Hough,Adam Carolla,1,1.0,1
 6,5,Priscilla Presley,Louis van Amstel,Priscilla Presley,1,1.0,1
@@ -31,7 +31,7 @@ season,week,predicted_eliminated_percent,predicted_partner_percent,actual_elimin
 6,7,Shannon Elizabeth,Derek Hough,Shannon Elizabeth,1,1.0,1
 6,8,Mario,Karina Smirnoff,Mario,1,1.0,1
 6,9,Marissa Jaret Winokur,Tony Dovolani,Marissa Jaret Winokur,1,1.0,1
-7,1,"Jeffrey Ross, Ted McGinley","Edyta Sliwinska, Inna Brayer","Ted McGinley, Jeffrey Ross",2,1.0,1
+7,1,"Jeffrey Ross, Ted McGinley","Edyta Sliwinska, Inna Brayer","Jeffrey Ross, Ted McGinley",2,1.0,1
 7,2,"Kim Kardashian, Cloris Leachman","Mark Ballas, Corky Ballas","Kim Kardashian, Misty May-Treanor",2,0.5,0
 7,4,Rocco DiSpirito,Karina Smirnoff,Rocco DiSpirito,1,1.0,1
 7,5,Toni Braxton,Alec Mazo,Toni Braxton,1,1.0,1
@@ -41,7 +41,7 @@ season,week,predicted_eliminated_percent,predicted_partner_percent,actual_elimin
 7,9,Cody Linley,Julianne Hough,Cody Linley,1,1.0,1
 8,2,Belinda Carlisle,Jonathan Roberts,Belinda Carlisle,1,1.0,1
 8,3,Denise Richards,Maksim Chmerkoskiy,Denise Richards,1,1.0,1
-8,4,"Steve Wozniak, Holly Madison","Karina Smirnoff, Dmitry Chaplin","Steve Wozniak, Holly Madison",2,1.0,1
+8,4,"Steve Wozniak, Holly Madison","Karina Smirnoff, Dmitry Chaplin","Holly Madison, Steve Wozniak",2,1.0,1
 8,5,David Alan Grier,Kym Johnson,David Alan Grier,1,1.0,1
 8,6,Steve-O,Lacey Schwimmer,Steve-O,1,1.0,1
 8,7,Lawrence Taylor,Edyta Sliwinska,Lawrence Taylor,1,1.0,1
@@ -53,8 +53,8 @@ season,week,predicted_eliminated_percent,predicted_partner_percent,actual_elimin
 9,3,"Tom DeLay, Michael Irvin","Cheryl Burke, Anna Demidova","Debi Mazar, Tom DeLay",2,0.5,0
 9,4,Chuck Liddell,Anna Trebunskaya,Chuck Liddell,1,1.0,1
 9,5,Natalie Coughlin,Alec Mazo,Natalie Coughlin,1,1.0,1
-9,6,"Louie Vito, Melissa Joan Hart","Chelsie Hightower, Mark Ballas","Louie Vito, Melissa Joan Hart",2,1.0,1
-9,7,"Mark Dacascos, Michael Irvin","Lacey Schwimmer, Anna Demidova","Michael Irvin, Mark Dacascos",2,1.0,1
+9,6,"Louie Vito, Melissa Joan Hart","Chelsie Hightower, Mark Ballas","Melissa Joan Hart, Louie Vito",2,1.0,1
+9,7,"Mark Dacascos, Michael Irvin","Lacey Schwimmer, Anna Demidova","Mark Dacascos, Michael Irvin",2,1.0,1
 9,8,Aaron Carter,Karina Smirnoff,Aaron Carter,1,1.0,1
 9,9,Joanna Krupa,Derek Hough,Joanna Krupa,1,1.0,1
 10,2,Shannen Doherty,Mark Ballas,Shannen Doherty,1,1.0,1
@@ -97,15 +97,15 @@ season,week,predicted_eliminated_percent,predicted_partner_percent,actual_elimin
 14,5,Gavin DeGraw,Karina Smirnoff,Gavin DeGraw,1,1.0,1
 14,6,Gladys Knight,Tristan MacManus,Gladys Knight,1,1.0,1
 14,7,Jaleel White,Kym Johnson,Jaleel White,1,1.0,1
-14,8,"Melissa Gilbert, Roshon Fegan","Maksim Chmerkoskiy, Chelsie Hightower","Roshon Fegan, Melissa Gilbert",2,1.0,1
+14,8,"Melissa Gilbert, Roshon Fegan","Maksim Chmerkoskiy, Chelsie Hightower","Melissa Gilbert, Roshon Fegan",2,1.0,1
 14,9,Maria Menounos,Derek Hough,Maria Menounos,1,1.0,1
 15,1,Pamela Anderson,Tristan MacManus,Pamela Anderson,1,1.0,1
 15,2,Joey Fatone,Kym Johnson,Joey Fatone,1,1.0,1
-15,3,"Drew Lachey, Helio Castroneves","Anna Trebunskaya, Chelsie Hightower","Helio Castroneves, Drew Lachey",2,1.0,1
+15,3,"Drew Lachey, Helio Castroneves","Anna Trebunskaya, Chelsie Hightower","Drew Lachey, Helio Castroneves",2,1.0,1
 15,4,Bristol Palin,Mark Ballas,Bristol Palin,1,1.0,1
 15,6,Sabrina Bryan,Louis van Amstel,Sabrina Bryan,1,1.0,1
 15,8,"Kirstie Alley, Gilles Marini","Maksim Chmerkoskiy, Peta Murgatroyd","Gilles Marini, Kirstie Alley",2,1.0,1
-15,9,"Emmitt Smith, Apolo Anton Ohno","Cheryl Burke, Karina Smirnoff","Emmitt Smith, Apolo Anton Ohno",2,1.0,1
+15,9,"Emmitt Smith, Apolo Anton Ohno","Cheryl Burke, Karina Smirnoff","Apolo Anton Ohno, Emmitt Smith",2,1.0,1
 16,2,Dorothy Hamill,Tristan MacManus,Dorothy Hamill,1,1.0,1
 16,3,Wynonna Judd,Tony Dovolani,Wynonna Judd,1,1.0,1
 16,4,Lisa Vanderpump,Gleb Savchenko,Lisa Vanderpump,1,1.0,1
@@ -149,7 +149,7 @@ season,week,predicted_eliminated_percent,predicted_partner_percent,actual_elimin
 20,7,Willow Shields,Mark Ballas,Willow Shields,1,1.0,1
 20,8,"Robert Herjavec, Chris Soules","Kym Johnson, Witney Carson","Robert Herjavec, Chris Soules",2,1.0,1
 20,9,Nastia Liukin,Derek Hough,Nastia Liukin,1,1.0,1
-21,2,"Chaka Khan, Kim Zolciak-Biermann, Victor Espinoza","Keo Motsepe, Tony Dovolani, Karina Smirnoff","Chaka Khan, Victor Espinoza, Kim Zolciak-Biermann",3,1.0,1
+21,2,"Chaka Khan, Kim Zolciak-Biermann, Victor Espinoza","Keo Motsepe, Tony Dovolani, Karina Smirnoff","Victor Espinoza, Kim Zolciak-Biermann, Chaka Khan",3,1.0,1
 21,4,Gary Busey,Anna Trebunskaya,Gary Busey,1,1.0,1
 21,6,Paula Deen,Louis van Amstel,Paula Deen,1,1.0,1
 21,7,Hayes Grier,Emma Slater,Hayes Grier,1,1.0,1
@@ -162,7 +162,7 @@ season,week,predicted_eliminated_percent,predicted_partner_percent,actual_elimin
 22,6,Doug Flutie,Karina Smirnoff,Doug Flutie,1,1.0,1
 22,7,"Kim Fields, Von Miller","Sasha Farber, Witney Carson","Kim Fields, Von Miller",2,1.0,1
 22,8,Wanya Morris,Lindsay Arnold,Jodie Sweetin,1,0.0,0
-22,9,"Antonio Brown, Nyle DiMarco","Sharna Burgess, Peta Murgatroyd","Antonio Brown, Wanya Morris",2,0.5,0
+22,9,"Antonio Brown, Nyle DiMarco","Sharna Burgess, Peta Murgatroyd","Wanya Morris, Antonio Brown",2,0.5,0
 23,2,Jake T. Austin,Jenna Johnson,Jake T. Austin,1,1.0,1
 23,3,Rick Perry,Emma Slater,Rick Perry,1,1.0,1
 23,4,"Babyface, Vanilla Ice","Allison Holker, Witney Carson","Babyface, Vanilla Ice",2,1.0,1
@@ -177,24 +177,24 @@ season,week,predicted_eliminated_percent,predicted_partner_percent,actual_elimin
 24,4,Mr. T,Kym Herjavec,Mr. T,1,1.0,1
 24,5,Erika Jayne,Gleb Savchenko,Erika Jayne,1,1.0,1
 24,6,Nick Viall,Peta Murgatroyd,Heather Morris,1,0.0,0
-24,7,"Nick Viall, Nancy Kerrigan","Peta Murgatroyd, Artem Chigvintsev","Nick Viall, Nancy Kerrigan",2,1.0,1
+24,7,"Nick Viall, Nancy Kerrigan","Peta Murgatroyd, Artem Chigvintsev","Nancy Kerrigan, Nick Viall",2,1.0,1
 24,8,Bonner Bolton,Sharna Burgess,Bonner Bolton,1,1.0,1
 24,9,Simone Biles,Sasha Farber,Simone Biles,1,1.0,1
-25,2,"Barbara Corcoran, Debbie Gibson","Keo Motsepe, Alan Bersten","Debbie Gibson, Barbara Corcoran",2,1.0,1
+25,2,"Barbara Corcoran, Debbie Gibson","Keo Motsepe, Alan Bersten","Barbara Corcoran, Debbie Gibson",2,1.0,1
 25,4,Derek Fisher,Sharna Burgess,Derek Fisher,1,1.0,1
 25,5,Sasha Pieterse,Gleb Savchenko,Sasha Pieterse,1,1.0,1
 25,6,Nick Lachey,Peta Murgatroyd,Nick Lachey,1,1.0,1
-25,7,"Nikki Bella, Vanessa Lachey","Artem Chigvintsev, Maksim Chmerkoskiy","Nikki Bella, Vanessa Lachey",2,1.0,1
+25,7,"Nikki Bella, Vanessa Lachey","Artem Chigvintsev, Maksim Chmerkoskiy","Vanessa Lachey, Nikki Bella",2,1.0,1
 25,8,Terrell Owens,Cheryl Burke,Terrell Owens,1,1.0,1
 25,9,Victoria Arlen,Valentin Chmerkovskiy,Victoria Arlen,1,1.0,1
 25,10,Drew Scott,Emma Slater,Drew Scott,1,1.0,1
 26,1,"Johnny Damon, Jamie Anderson","Emma Slater, Artem Chigvintsev","Jamie Anderson, Johnny Damon",2,1.0,1
 26,2,"Kareem Abdul-Jabbar, Arike Ogunbowale","Lindsay Arnold, Gleb Savchenko","Arike Ogunbowale, Kareem Abdul-Jabbar",2,1.0,1
-26,3,"Jennie Finch Daigle, Chris Mazdzer, Mirai Nagasu","Keo Motsepe, Witney Carson, Alan Bersten","Mirai Nagasu, Chris Mazdzer, Jennie Finch Daigle",3,1.0,1
+26,3,"Jennie Finch Daigle, Chris Mazdzer, Mirai Nagasu","Keo Motsepe, Witney Carson, Alan Bersten","Chris Mazdzer, Mirai Nagasu, Jennie Finch Daigle",3,1.0,1
 27,1,Nikki Glaser,Gleb Savchenko,Nikki Glaser,1,1.0,1
 27,2,Danelle Umstead,Artem Chigvintsev,Danelle Umstead,1,1.0,1
 27,3,Nancy McKeon,Valentin Chmerkovskiy,Nancy McKeon,1,1.0,1
 27,4,John Schneider,Emma Slater,Tinashe,1,0.0,0
 27,6,Mary Lou Retton,Sasha Farber,Mary Lou Retton,1,1.0,1
-27,7,"John Schneider, DeMarcus Ware","Emma Slater, Lindsay Arnold","John Schneider, DeMarcus Ware",2,1.0,1
+27,7,"John Schneider, DeMarcus Ware","Emma Slater, Lindsay Arnold","DeMarcus Ware, John Schneider",2,1.0,1
 27,8,"Joe Amabile, Bobby Bones","Jenna Johnson, Sharna Burgess","Joe Amabile, Juan Pablo Di Pace",2,0.5,0

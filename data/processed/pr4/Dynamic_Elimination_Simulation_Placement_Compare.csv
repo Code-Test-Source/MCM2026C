@@ -1,0 +1,421 @@
+﻿season,celebrity_name,actual_placement,predicted_placement,placement_diff,actual_elim_week,predicted_elim_week
+1,John O'Hurley,2,1,-1,,5
+1,Kelly Monaco,1,1,0,,5
+1,Joey McIntyre,3,2,-1,,4
+1,Rachel Hunter,4,2,-2,4.0,4
+1,Evander Holyfield,5,3,-2,3.0,2
+1,Trista Sutter,6,3,-3,2.0,2
+2,Drew Lachey,1,1,0,,8
+2,Stacy Keibler,3,1,-2,,8
+2,Lisa Rinna,4,2,-2,7.0,7
+2,George Hamilton,5,3,-2,6.0,6
+2,Tia Carrere,6,4,-2,5.0,5
+2,Giselle Fernandez,8,5,-3,3.0,3
+2,Jerry Rice,2,5,3,,3
+2,Tatum O'Neal,9,6,-3,2.0,2
+2,Kenny Mayne,10,7,-3,1.0,1
+2,Master P,7,7,0,4.0,1
+3,Emmitt Smith,1,1,0,,9
+3,Joey Lawrence,3,1,-2,,9
+3,Mario Lopez,2,1,-1,,9
+3,Monique Coleman,4,2,-2,8.0,8
+3,Jerry Springer,5,3,-2,7.0,5
+3,Willa Ford,7,3,-4,5.0,5
+3,Sara Evans,6,4,-2,5.0,4
+3,Vivica A. Fox,8,4,-4,4.0,4
+3,Harry Hamlin,9,5,-4,3.0,3
+3,Shanna Moakler,10,6,-4,2.0,2
+3,Tucker Carlson,11,7,-4,1.0,1
+4,Apolo Anton Ohno,1,1,0,,10
+4,Joey Fatone,2,1,-1,,10
+4,Laila Ali,3,1,-2,,10
+4,Ian Ziering,4,2,-2,9.0,9
+4,Billy Ray Cyrus,5,3,-2,8.0,8
+4,Heather Mills,7,4,-3,6.0,6
+4,John Ratzenberger,6,4,-2,7.0,6
+4,Clyde Drexler,8,5,-3,5.0,5
+4,Leeza Gibbons,9,6,-3,4.0,4
+4,Shandi Finnessey,10,7,-3,3.0,3
+4,Paulina Porizkova,11,8,-3,2.0,2
+5,Helio Castroneves,1,1,0,,10
+5,Marie Osmond,3,1,-2,,10
+5,Mel B,2,1,-1,,10
+5,Jennie Garth,4,2,-2,9.0,9
+5,Cameron Mathison,5,3,-2,8.0,8
+5,Jane Seymour,6,4,-2,7.0,7
+5,Sabrina Bryan,7,5,-2,6.0,6
+5,Mark Cuban,8,6,-2,5.0,5
+5,Floyd Mayweather Jr. ,9,7,-2,4.0,4
+5,Wayne Newton,10,8,-2,3.0,3
+5,Albert Reed,11,9,-2,2.0,2
+5,Josie Maran,12,10,-2,1.0,1
+6,Cristian de la Fuente,3,1,-2,,10
+6,Jason Taylor,2,1,-1,,10
+6,Kristi Yamaguchi,1,1,0,,10
+6,Marissa Jaret Winokur,4,2,-2,9.0,9
+6,Mario,5,3,-2,8.0,8
+6,Shannon Elizabeth,6,4,-2,7.0,7
+6,Marlee Matlin,7,5,-2,6.0,6
+6,Priscilla Presley,8,6,-2,5.0,5
+6,Adam Carolla,9,7,-2,4.0,4
+6,Steve Guttenberg,10,8,-2,3.0,3
+6,Monica Seles,11,9,-2,2.0,2
+6,Penn Jillette,12,9,-3,2.0,2
+7,Brooke Burke,1,1,0,,10
+7,Lance Bass,3,1,-2,,10
+7,Cody Linley,4,2,-2,9.0,9
+7,Maurice Greene,5,3,-2,8.0,8
+7,Susan Lucci,6,4,-2,7.0,7
+7,Warren Sapp,2,4,2,,7
+7,Toni Braxton,8,5,-3,5.0,5
+7,Rocco DiSpirito,9,6,-3,4.0,4
+7,Cloris Leachman,7,7,0,6.0,2
+7,Kim Kardashian,11,7,-4,2.0,2
+7,Misty May-Treanor,10,7,-3,2.0,2
+7,Jeffrey Ross,13,8,-5,1.0,1
+7,Ted McGinley,12,8,-4,1.0,1
+8,Gilles Marini,2,1,-1,,11
+8,Melissa Rycroft,3,1,-2,,11
+8,Shawn Johnson,1,1,0,,11
+8,Ty Murray,4,2,-2,10.0,10
+8,Lil' Kim,5,3,-2,9.0,9
+8,Chuck Wicks,6,4,-2,8.0,8
+8,Lawrence Taylor,7,5,-2,7.0,7
+8,Steve-O,8,6,-2,6.0,6
+8,David Alan Grier,9,7,-2,5.0,5
+8,Holly Madison,11,8,-3,4.0,4
+8,Steve Wozniak,10,8,-2,4.0,4
+8,Denise Richards,12,9,-3,3.0,3
+8,Belinda Carlisle,13,10,-3,2.0,2
+9,Donny Osmond,1,1,0,,10
+9,Kelly Osbourne,3,1,-2,,10
+9,Mya,2,1,-1,,10
+9,Joanna Krupa,4,2,-2,9.0,9
+9,Aaron Carter,5,3,-2,8.0,8
+9,Mark Dacascos,6,4,-2,7.0,7
+9,Louie Vito,8,5,-3,6.0,6
+9,Melissa Joan Hart,9,5,-4,6.0,6
+9,Natalie Coughlin,10,6,-4,5.0,5
+9,Chuck Liddell,11,7,-4,4.0,4
+9,Debi Mazar,12,8,-4,3.0,3
+9,Michael Irvin,7,8,1,7.0,3
+9,Tom DeLay,13,8,-5,3.0,3
+9,Kathy Ireland,14,9,-5,2.0,2
+9,Ashley Hamiliton,16,10,-6,1.0,1
+9,Macy Gray,15,10,-5,1.0,1
+10,Erin Andrews,3,1,-2,,10
+10,Evan Lysacek,2,1,-1,,10
+10,Nicole Scherzinger,1,1,0,,10
+10,Chad Ochocinco,4,2,-2,9.0,9
+10,Niecy Nash,5,3,-2,8.0,8
+10,Pamela Anderson,6,4,-2,7.0,7
+10,Jake Pavelka,7,5,-2,6.0,6
+10,Kate Gosselin,8,6,-2,5.0,5
+10,Aiden Turner,9,7,-2,4.0,4
+10,Buzz Aldrin,10,8,-2,3.0,3
+10,Shannen Doherty,11,9,-2,2.0,2
+11,Bristol Palin,3,1,-2,,10
+11,Jennifer Grey,1,1,0,,10
+11,Kyle Massey,2,1,-1,,10
+11,Brandy,4,2,-2,9.0,9
+11,Kurt Warner,5,3,-2,8.0,8
+11,Rick Fox,6,4,-2,7.0,7
+11,Audrina Patridge,7,5,-2,6.0,6
+11,Florence Henderson,8,6,-2,5.0,5
+11,The Situation,9,7,-2,4.0,4
+11,Margaret Cho,10,8,-2,3.0,3
+11,Michael Bolton,11,9,-2,2.0,2
+11,David Hasselhoff,12,10,-2,1.0,1
+12,Chelsea Kane,3,1,-2,,10
+12,Hines Ward,1,1,0,,10
+12,Kirstie Alley,2,1,-1,,10
+12,Ralph Macchio,4,2,-2,9.0,9
+12,Romeo,5,3,-2,8.0,8
+12,Kendra Wilkinson,6,4,-2,7.0,7
+12,Chris Jericho,7,5,-2,6.0,6
+12,Petra Nemcova,8,6,-2,5.0,5
+12,Sugar Ray Leonard,9,7,-2,4.0,4
+12,Wendy Williams,10,8,-2,3.0,3
+12,Mike Catherwood,11,9,-2,2.0,2
+13,J.R. Martinez,1,1,0,,10
+13,Ricki Lake,3,1,-2,,10
+13,Rob Kardashian,2,1,-1,,10
+13,Hope Solo,4,2,-2,9.0,9
+13,Nancy Grace,5,3,-2,8.0,8
+13,David Arquette,6,4,-2,7.0,7
+13,Chaz Bono,7,5,-2,6.0,6
+13,Carson Kressley,8,6,-2,5.0,5
+13,Chynna Phillips,9,7,-2,4.0,4
+13,Kristin Cavallari,10,8,-2,3.0,3
+13,Elisabetta Canalis,11,9,-2,2.0,2
+13,Metta World Peace (Ron),12,10,-2,1.0,1
+14,Donald Driver,1,1,0,,10
+14,Katherine Jenkins,2,1,-1,,10
+14,William Levy,3,1,-2,,10
+14,Maria Menounos,4,2,-2,9.0,9
+14,Melissa Gilbert,5,3,-2,8.0,8
+14,Roshon Fegan,6,3,-3,8.0,8
+14,Jaleel White,7,4,-3,7.0,7
+14,Gladys Knight,8,5,-3,6.0,6
+14,Gavin DeGraw,9,6,-3,5.0,5
+14,Sherri Sheperd,10,7,-3,4.0,4
+14,Jack Wagner,11,8,-3,3.0,3
+14,Martina Navratilova,12,9,-3,2.0,2
+15,Kelly Monaco,3,1,-2,,10
+15,Melissa Rycroft,1,1,0,,10
+15,Shawn Johnson,2,1,-1,,10
+15,Apolo Anton Ohno,5,2,-3,9.0,9
+15,Emmitt Smith,4,2,-2,9.0,9
+15,Gilles Marini,6,3,-3,8.0,8
+15,Kirstie Alley,7,3,-4,8.0,8
+15,Sabrina Bryan,8,4,-4,6.0,6
+15,Bristol Palin,9,5,-4,4.0,4
+15,Drew Lachey,11,6,-5,3.0,3
+15,Helio Castroneves,10,6,-4,3.0,3
+15,Joey Fatone,12,7,-5,2.0,2
+15,Pamela Anderson,13,8,-5,1.0,1
+16,Jacoby Jones,3,1,-2,,11
+16,Kellie Pickler,1,1,0,,11
+16,Zendaya,2,1,-1,,11
+16,Alexandra Raisman,4,2,-2,10.0,10
+16,Ingo Rademacher,5,3,-2,9.0,9
+16,Sean Lowe,6,4,-2,8.0,8
+16,Andy Dick,7,5,-2,7.0,7
+16,Victor Ortiz,8,6,-2,6.0,6
+16,D. L. Hughley,9,7,-2,5.0,5
+16,Lisa Vanderpump,10,8,-2,4.0,4
+16,Wynonna Judd,11,9,-2,3.0,3
+16,Dorothy Hamill,12,10,-2,2.0,2
+17,Amber Riley,1,1,0,,12
+17,Corbin Bleu,2,1,-1,,12
+17,Jack Osbourne,3,1,-2,,12
+17,Leah Remini,5,2,-3,10.0,10
+17,Bill Engvall,4,3,-1,11.0,9
+17,Elizabeth Berkley Lauren,6,3,-3,9.0,9
+17,Brant Daugherty,7,4,-3,8.0,8
+17,"Nicole ""Snooki"" Polizzi",8,5,-3,7.0,7
+17,Christina Milian,9,6,-3,5.0,5
+17,Valerie Harper,10,7,-3,4.0,4
+17,Bill Nye,11,8,-3,3.0,3
+17,Keyshawn Johnson,12,9,-3,2.0,2
+18,Amy Purdy,2,1,-1,,11
+18,Candace Cameron Bure,3,1,-2,,11
+18,Meryl Davis,1,1,0,,11
+18,James Maslow,4,2,-2,10.0,10
+18,Charlie White,5,3,-2,9.0,9
+18,Danica McKellar,6,4,-2,8.0,8
+18,NeNe Leakes,7,5,-2,7.0,7
+18,Drew Carey,8,6,-2,6.0,6
+18,Cody Simpson,9,7,-2,5.0,5
+18,Billy Dee Williams,10,8,-2,2.0,2
+18,Sean Avery,11,8,-3,2.0,2
+19,Alfonso Ribeiro,1,1,0,,12
+19,Janel Parrish,3,1,-2,,12
+19,Sadie Robertson,2,1,-1,,12
+19,Bethany Mota,4,2,-2,11.0,11
+19,Tommy Chong,5,3,-2,10.0,10
+19,Lea Thompson,6,4,-2,9.0,9
+19,Michael Waltrip,7,5,-2,8.0,8
+19,Antonio Sabato Jr.,8,6,-2,7.0,7
+19,Jonathan Bennett,9,7,-2,6.0,6
+19,Betsey Johnson,10,8,-2,4.0,4
+19,Randy Couture,11,9,-2,3.0,3
+19,Tavis Smiley,12,10,-2,2.0,2
+19,Lolo Jones,13,11,-2,1.0,1
+20,Noah Galloway,3,1,-2,,10
+20,Riker Lynch,2,1,-1,,10
+20,Rumer Willis,1,1,0,,10
+20,Nastia Liukin,4,2,-2,9.0,9
+20,Chris Soules,5,3,-2,8.0,8
+20,Robert Herjavec,6,3,-3,8.0,8
+20,Willow Shields,7,4,-3,7.0,7
+20,Patti LaBelle,8,5,-3,6.0,6
+20,Suzanne Somers,9,6,-3,5.0,5
+20,Michael Sam,10,7,-3,4.0,4
+20,Charlotte McKinney,11,8,-3,3.0,3
+20,Redfoo,12,9,-3,2.0,2
+21,Bindi Irwin,1,1,0,,12
+21,Nick Carter,2,1,-1,,12
+21,Carlos PenaVega,4,2,-2,11.0,11
+21,Alek Skarlatos,3,3,0,,9
+21,Alexa PenaVega,6,3,-3,9.0,9
+21,Tamar Braxton,5,3,-2,9.0,9
+21,Andy Grammer,7,4,-3,8.0,8
+21,Hayes Grier,8,5,-3,7.0,7
+21,Paula Deen,9,6,-3,6.0,6
+21,Gary Busey,10,7,-3,4.0,4
+21,Chaka Khan,13,8,-5,2.0,2
+21,Kim Zolciak-Biermann,11,8,-3,2.0,2
+21,Victor Espinoza,12,8,-4,2.0,2
+22,Ginger Zee,3,1,-2,,10
+22,Nyle DiMarco,1,1,0,,10
+22,Paige VanZant,2,1,-1,,10
+22,Antonio Brown,5,2,-3,9.0,9
+22,Jodie Sweetin,6,3,-3,8.0,8
+22,Wanya Morris,4,3,-1,9.0,8
+22,Kim Fields,8,4,-4,7.0,7
+22,Von Miller,7,4,-3,7.0,7
+22,Doug Flutie,9,5,-4,6.0,6
+22,Marla Maples,10,6,-4,4.0,4
+22,Mischa Barton,11,7,-4,3.0,3
+22,Geraldo Rivera,12,8,-4,2.0,2
+23,Calvin Johnson Jr.,3,1,-2,,12
+23,James Hinchcliffe,2,1,-1,,12
+23,Laurie Hernandez,1,1,0,,12
+23,Jana Kramer,4,2,-2,11.0,11
+23,Terra Jole,5,3,-2,10.0,10
+23,Marilu Henner,6,4,-2,9.0,9
+23,Ryan Lochte,7,5,-2,8.0,8
+23,Maureen McCormick,8,6,-2,7.0,7
+23,Amber Rose,9,7,-2,6.0,6
+23,Babyface,11,8,-3,4.0,4
+23,Vanilla Ice,10,8,-2,4.0,4
+23,Rick Perry,12,9,-3,3.0,3
+23,Jake T. Austin,13,10,-3,2.0,2
+24,David Ross,2,1,-1,,10
+24,Normani,3,1,-2,,10
+24,Rashad Jennings,1,1,0,,10
+24,Simone Biles,4,2,-2,9.0,9
+24,Bonner Bolton,5,3,-2,8.0,7
+24,Nancy Kerrigan,7,3,-4,7.0,7
+24,Heather Morris,8,4,-4,6.0,6
+24,Nick Viall,6,4,-2,7.0,6
+24,Erika Jayne,9,5,-4,5.0,5
+24,Mr. T,10,6,-4,4.0,4
+24,Charo,11,7,-4,3.0,3
+24,Chris Kattan,12,8,-4,2.0,2
+25,Frankie Muniz,3,1,-2,,11
+25,Jordan Fisher,1,1,0,,11
+25,Lindsey Stirling,2,1,-1,,11
+25,Victoria Arlen,5,2,-3,9.0,9
+25,Drew Scott,4,3,-1,10.0,8
+25,Terrell Owens,6,3,-3,8.0,8
+25,Nikki Bella,8,4,-4,7.0,7
+25,Vanessa Lachey,7,4,-3,7.0,7
+25,Nick Lachey,9,5,-4,6.0,6
+25,Sasha Pieterse,10,6,-4,5.0,5
+25,Derek Fisher,11,7,-4,4.0,4
+25,Barbara Corcoran,13,8,-5,2.0,2
+25,Debbie Gibson,12,8,-4,2.0,2
+26,Adam Rippon,1,1,0,,4
+26,Josh Norman,2,1,-1,,4
+26,Tonya Harding,3,1,-2,,4
+26,Chris Mazdzer,5,2,-3,3.0,3
+26,Jennie Finch Daigle,6,2,-4,3.0,3
+26,Mirai Nagasu,4,2,-2,3.0,3
+26,Arike Ogunbowale,7,3,-4,2.0,2
+26,Kareem Abdul-Jabbar,8,3,-5,2.0,2
+26,Jamie Anderson,10,4,-6,1.0,1
+26,Johnny Damon,9,4,-5,1.0,1
+27,Alexis Ren,4,1,-3,,9
+27,Evanna Lynch,3,1,-2,,9
+27,Milo Manheim,2,1,-1,,9
+27,Bobby Bones,1,2,1,,8
+27,Joe Amabile,6,2,-4,8.0,8
+27,Juan Pablo Di Pace,5,2,-3,8.0,8
+27,DeMarcus Ware,7,3,-4,7.0,7
+27,Mary Lou Retton,9,4,-5,6.0,6
+27,John Schneider,8,5,-3,7.0,4
+27,Tinashe,10,5,-5,4.0,4
+27,Nancy McKeon,11,6,-5,3.0,3
+27,Danelle Umstead,12,7,-5,2.0,2
+27,Nikki Glaser,13,8,-5,1.0,1
+28,Ally Brooke,3,1,-2,,11
+28,Kel Mitchell,2,1,-1,,11
+28,James Van Der Beek,5,2,-3,10.0,10
+28,Kate Flannery,7,3,-4,8.0,8
+28,Lauren Alaina,4,3,-1,,8
+28,Karamo Brown,8,4,-4,7.0,7
+28,Sean Spicer,6,4,-2,9.0,7
+28,Hannah Brown,1,5,4,,6
+28,Sailor Brinkley-Cook,9,5,-4,6.0,6
+28,Lamar Odom,10,6,-4,4.0,2
+28,Mary Wilson,12,6,-6,2.0,2
+28,Ray Lewis,11,6,-5,2.0,2
+29,Justina Machado,4,1,-3,,11
+29,Nev Schulman,2,1,-1,,11
+29,Johnny Weir,6,2,-4,10.0,10
+29,AJ McLean,7,3,-4,9.0,9
+29,Nelly,3,3,0,,9
+29,Chrishell Stause,8,4,-4,8.0,8
+29,Jeannie Mai,9,5,-4,7.0,7
+29,Kaitlyn Bristowe,1,5,4,,7
+29,Monica Aldama,10,5,-5,7.0,7
+29,Skai Jackson,5,6,1,10.0,6
+29,Veron Davis,11,6,-5,6.0,6
+29,Jesse Metcalfe,12,7,-5,5.0,5
+29,Anne Heche,13,8,-5,4.0,3
+29,Carole Baskin,14,8,-6,3.0,3
+29,Charles Oakley,15,9,-6,2.0,2
+30,Amanda Kloots,4,1,-3,,10
+30,JoJo Siwa,2,1,-1,,10
+30,Cody Rigsby,3,2,-1,,9
+30,Melora Hardin,6,2,-4,9.0,9
+30,Suni Lee,5,2,-3,9.0,9
+30,Jimmie Allen,7,3,-4,8.0,8
+30,Olivia Jade,8,3,-5,8.0,8
+30,"Mike ""The Miz"" Mizanin",9,4,-5,7.0,7
+30,Iman Shumpert,1,5,4,,5
+30,Melanie C,11,5,-6,5.0,5
+30,Brian Austin Green,13,6,-7,4.0,4
+30,Kenya Moore,10,6,-4,6.0,4
+30,Matt James,12,6,-6,4.0,4
+30,Christine Chiu,14,7,-7,3.0,3
+30,Martin Kove,15,8,-7,2.0,2
+31,Charli D'Amelio,1,1,0,,10
+31,Gabby Windey,2,1,-1,,10
+31,Wayne Brady,3,1,-2,,10
+31,Heidi D'Amelio,8,2,-6,8.0,8
+31,Jordin Sparks,9,3,-6,7.0,7
+31,Jessie James Decker,10,4,-6,6.0,6
+31,Daniel Durant,5,5,0,9.0,5
+31,Joseph Baena,11,5,-6,5.0,5
+31,Selma Blair,12,5,-7,5.0,5
+31,Shangela,4,5,1,,5
+31,Sam Champion,13,6,-7,4.0,4
+31,Trevor Donovan,6,6,0,9.0,4
+31,Cheryl Ladd,14,7,-7,3.0,2
+31,Teresa Giudice,15,7,-8,2.0,2
+31,Jason Lewis,16,8,-8,1.0,1
+31,Vinny Guadagnino,7,8,1,8.0,1
+32,Ariana Madix,3,1,-2,,10
+32,Charity Lawson,4,1,-3,,10
+32,Jason Mraz,2,1,-1,,10
+32,Xochitl Gomez,1,1,0,,10
+32,Barry Williams,7,2,-5,8.0,7
+32,Lele Pons,8,2,-6,7.0,7
+32,Harry Jowsey,6,3,-3,9.0,5
+32,Mira Sorvino,10,3,-7,5.0,5
+32,Adrian Peterson,11,4,-7,4.0,4
+32,Alyson Hannigan,5,4,-1,,4
+32,Tyson Beckford,12,5,-7,3.0,3
+32,Jamie Lynn Spears,13,6,-7,2.0,2
+32,Mauricio Umansky,9,6,-3,6.0,2
+32,Matt Walsh,14,7,-7,1.0,1
+33,Chandler Kinney,3,1,-2,,8
+33,Danny Amendola,5,1,-4,,8
+33,Joey Graziadei,1,1,0,,8
+33,Ilona Maher,2,2,0,,6
+33,Jenn Tran,7,2,-5,6.0,6
+33,Phaedra Parks,8,3,-5,5.0,5
+33,Stephen Nedoroscik,4,3,-1,,5
+33,Brooks Nader,9,4,-5,4.0,4
+33,Dwight Howard ,6,4,-2,7.0,4
+33,Eric Roberts,10,5,-5,3.0,3
+33,Anna Delvey,12,6,-6,2.0,2
+33,Reginald VelJohnson,10,6,-4,3.0,2
+33,Tori Spelling,12,6,-6,2.0,2
+34,Alix Earle,2,1,-1,,11
+34,Elaine Hendrix,5,1,-4,,11
+34,Jordan Chiles,3,1,-2,,11
+34,Robert Irwin,1,1,0,,11
+34,Dylan Efron,4,2,-2,,10
+34,Whitney Leavitt,6,2,-4,10.0,10
+34,Jen Affleck,9,3,-6,7.0,7
+34,Scott Hoying,10,4,-6,6.0,6
+34,Danielle Fishel,8,5,-3,8.0,4
+34,Hilaria Baldwin,11,5,-6,4.0,4
+34,Lauren Jauregui,12,6,-6,3.0,3
+34,Andy Richter,7,7,0,9.0,2
+34,Baron Davis,13,7,-6,2.0,2
+34,Corey Feldman,13,7,-6,2.0,2

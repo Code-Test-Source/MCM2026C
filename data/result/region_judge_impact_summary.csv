@@ -1,0 +1,9 @@
+﻿region,count,mean_judge,mean_others,mean_diff,t_stat,p_value_raw,coef_ctrl,p_value_ctrl,cohen_d,point_biserial_r,direction,direction_consistency,significant,significant_and_unidirectional,note
+others,1176,26.5454,26.1006,0.4448,1.6988,0.089503,0.831328,5.5e-05,0.0715,0.0357,不稳定,0.548,True,False,方向不稳定
+United States - New York,225,25.0052,26.4785,-1.4734,-3.5626,0.000431,-1.501794,1.2e-05,-0.2371,-0.0708,不稳定,0.5,True,False,方向不稳定
+United States - Florida,115,25.6005,26.3711,-0.7707,-1.4052,0.162348,-1.18694,0.011181,-0.1238,-0.0272,不稳定,0.75,True,False,方向不稳定
+United States - Georgia,100,28.7283,26.221,2.5073,3.7243,0.000314,1.877662,0.000194,0.4039,0.0828,不稳定,0.5,True,False,方向不稳定
+United States - California,344,26.2713,26.3428,-0.0715,-0.192,0.847833,-0.534163,0.06664,-0.0115,-0.0041,不稳定,0.556,False,False,方向不稳定
+United States - Texas,149,26.4079,26.3266,0.0813,0.1607,0.872499,-0.324099,0.430983,0.0131,0.0032,不稳定,0.667,False,False,方向不稳定
+United States - Illinois,80,26.3,26.3331,-0.0331,-0.0448,0.964362,-0.578475,0.299513,-0.0053,-0.001,不稳定,0.0,False,False,方向不稳定
+United States - Pennsylvania,72,24.9992,26.3758,-1.3765,-2.1976,0.030945,0.4326,0.457509,-0.2212,-0.0388,不稳定,0.0,False,False,方向不稳定

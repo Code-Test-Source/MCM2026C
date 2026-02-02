@@ -1,0 +1,5 @@
+﻿metric,value
+avg_correct_rate,0.8408163265306122
+exact_match_rate,0.8204081632653061
+overall_repeat_rate,0.8381294964028777
+weeks_evaluated,245.0
